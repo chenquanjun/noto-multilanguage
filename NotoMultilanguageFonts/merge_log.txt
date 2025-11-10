@@ -1,600 +1,600 @@
-Thin → NotoKufiArabic-Thin.ttf → 1555 karakter
-Thin → NotoMusic-Thin.ttf → 9 karakter
-Thin → NotoNastaliqUrdu-Thin.ttf → 5 karakter
-Thin → NotoSans-Thin.ttf → 2657 karakter
-Thin → NotoSansArmenian-Thin.ttf → 96 karakter
-Thin → NotoSansBalinese-Thin.ttf → 122 karakter
-Thin → NotoSansBamum-Thin.ttf → 88 karakter
-Thin → NotoSansBatak-Thin.ttf → 56 karakter
-Thin → NotoSansBengali-Thin.ttf → 109 karakter
-Thin → NotoSansBuginese-Thin.ttf → 31 karakter
-Thin → NotoSansBuhid-Thin.ttf → 22 karakter
-Thin → NotoSansCanadianAboriginal-Thin.ttf → 710 karakter
-Thin → NotoSansChakma-Thin.ttf → 10 karakter
-Thin → NotoSansCham-Thin.ttf → 83 karakter
-Thin → NotoSansCherokee-Thin.ttf → 172 karakter
-Thin → NotoSansCoptic-Thin.ttf → 137 karakter
-Thin → NotoSansDevanagari-Thin.ttf → 70 karakter
-Thin → NotoSansDuployan-Thin.ttf → 7 karakter
-Thin → NotoSansEthiopic-Thin.ttf → 496 karakter
-Thin → NotoSansGeorgian-Thin.ttf → 173 karakter
-Thin → NotoSansGlagolitic-Thin.ttf → 94 karakter
-Thin → NotoSansGrantha-Thin.ttf → 15 karakter
-Thin → NotoSansGujarati-Thin.ttf → 91 karakter
-Thin → NotoSansGurmukhi-Thin.ttf → 81 karakter
-Thin → NotoSansHanunoo-Thin.ttf → 21 karakter
-Thin → NotoSansHebrew-Thin.ttf → 134 karakter
-Thin → NotoSansHK-Thin.ttf → 18269 karakter
-Thin → NotoSansJavanese-Thin.ttf → 90 karakter
-Thin → NotoSansJP-Thin.ttf → 2372 karakter
-Thin → NotoSansKannada-Thin.ttf → 91 karakter
-Thin → NotoSansKayahLi-Thin.ttf → 47 karakter
-Thin → NotoSansKhmer-Thin.ttf → 146 karakter
-Thin → NotoSansKR-Thin.ttf → 11784 karakter
-Thin → NotoSansLao-Thin.ttf → 83 karakter
-Thin → NotoSansLaoLooped-Thin.ttf → 3 karakter
-Thin → NotoSansLepcha-Thin.ttf → 74 karakter
-Thin → NotoSansLimbu-Thin.ttf → 68 karakter
-Thin → NotoSansLisu-Thin.ttf → 48 karakter
-Thin → NotoSansMalayalam-Thin.ttf → 118 karakter
-Thin → NotoSansMandaic-Thin.ttf → 29 karakter
-Thin → NotoSansMath-Thin.ttf → 1156 karakter
-Thin → NotoSansMeeteiMayek-Thin.ttf → 79 karakter
-Thin → NotoSansMongolian-Thin.ttf → 158 karakter
-Thin → NotoSansMyanmar-Thin.ttf → 213 karakter
-Thin → NotoSansNandinagari-Thin.ttf → 1 karakter
-Thin → NotoSansNewTaiLue-Thin.ttf → 83 karakter
-Thin → NotoSansNKo-Thin.ttf → 62 karakter
-Thin → NotoSansOgham-Thin.ttf → 29 karakter
-Thin → NotoSansOlChiki-Thin.ttf → 48 karakter
-Thin → NotoSansOriya-Thin.ttf → 91 karakter
-Thin → NotoSansRejang-Thin.ttf → 37 karakter
-Thin → NotoSansRunic-Thin.ttf → 89 karakter
-Thin → NotoSansSamaritan-Thin.ttf → 61 karakter
-Thin → NotoSansSaurashtra-Thin.ttf → 82 karakter
-Thin → NotoSansSC-Thin.ttf → 9257 karakter
-Thin → NotoSansSinhala-Thin.ttf → 91 karakter
-Thin → NotoSansSundanese-Thin.ttf → 72 karakter
-Thin → NotoSansSylotiNagri-Thin.ttf → 45 karakter
-Thin → NotoSansSymbols-Thin.ttf → 180 karakter
-Thin → NotoSansSymbols2-Thin.ttf → 790 karakter
-Thin → NotoSansSyriac-Thin.ttf → 77 karakter
-Thin → NotoSansTagbanwa-Thin.ttf → 18 karakter
-Thin → NotoSansTaiLe-Thin.ttf → 35 karakter
-Thin → NotoSansTaiTham-Thin.ttf → 127 karakter
-Thin → NotoSansTaiViet-Thin.ttf → 72 karakter
-Thin → NotoSansTamil-Thin.ttf → 57 karakter
-Thin → NotoSansTelugu-Thin.ttf → 100 karakter
-Thin → NotoSansThaana-Thin.ttf → 50 karakter
-Thin → NotoSansThai-Thin.ttf → 85 karakter
-Thin → NotoSansTifinagh-Thin.ttf → 59 karakter
-Thin → NotoSansVai-Thin.ttf → 300 karakter
-Thin → NotoSansYi-Thin.ttf → 1220 karakter
-Thin → NotoSerifBalinese-Thin.ttf → 1 karakter
-Thin → NotoTraditionalNushu-Thin.ttf → 13 karakter
-✅ Thin font başarıyla kaydedildi: NotoUniversalOutput\NotoSansMultilanguage-Thin.ttf
-Light → NotoKufiArabic-Light.ttf → 1555 karakter
-Light → NotoMusic-Light.ttf → 9 karakter
-Light → NotoNastaliqUrdu-Light.ttf → 5 karakter
-Light → NotoSans-Light.ttf → 2657 karakter
-Light → NotoSansArmenian-Light.ttf → 96 karakter
-Light → NotoSansBalinese-Light.ttf → 122 karakter
-Light → NotoSansBamum-Light.ttf → 88 karakter
-Light → NotoSansBatak-Light.ttf → 56 karakter
-Light → NotoSansBengali-Light.ttf → 109 karakter
-Light → NotoSansBuginese-Light.ttf → 31 karakter
-Light → NotoSansBuhid-Light.ttf → 22 karakter
-Light → NotoSansCanadianAboriginal-Light.ttf → 710 karakter
-Light → NotoSansChakma-Light.ttf → 10 karakter
-Light → NotoSansCham-Light.ttf → 83 karakter
-Light → NotoSansCherokee-Light.ttf → 172 karakter
-Light → NotoSansCoptic-Light.ttf → 137 karakter
-Light → NotoSansDevanagari-Light.ttf → 70 karakter
-Light → NotoSansDuployan-Light.ttf → 7 karakter
-Light → NotoSansEthiopic-Light.ttf → 496 karakter
-Light → NotoSansGeorgian-Light.ttf → 173 karakter
-Light → NotoSansGlagolitic-Light.ttf → 94 karakter
-Light → NotoSansGrantha-Light.ttf → 15 karakter
-Light → NotoSansGujarati-Light.ttf → 91 karakter
-Light → NotoSansGurmukhi-Light.ttf → 81 karakter
-Light → NotoSansHanunoo-Light.ttf → 21 karakter
-Light → NotoSansHebrew-Light.ttf → 134 karakter
-Light → NotoSansHK-Light.ttf → 18269 karakter
-Light → NotoSansJavanese-Light.ttf → 90 karakter
-Light → NotoSansJP-Light.ttf → 2372 karakter
-Light → NotoSansKannada-Light.ttf → 91 karakter
-Light → NotoSansKayahLi-Light.ttf → 47 karakter
-Light → NotoSansKhmer-Light.ttf → 146 karakter
-Light → NotoSansKR-Light.ttf → 11784 karakter
-Light → NotoSansLao-Light.ttf → 83 karakter
-Light → NotoSansLaoLooped-Light.ttf → 3 karakter
-Light → NotoSansLepcha-Light.ttf → 74 karakter
-Light → NotoSansLimbu-Light.ttf → 68 karakter
-Light → NotoSansLisu-Light.ttf → 48 karakter
-Light → NotoSansMalayalam-Light.ttf → 118 karakter
-Light → NotoSansMandaic-Light.ttf → 29 karakter
-Light → NotoSansMath-Light.ttf → 1156 karakter
-Light → NotoSansMeeteiMayek-Light.ttf → 79 karakter
-Light → NotoSansMongolian-Light.ttf → 158 karakter
-Light → NotoSansMyanmar-Light.ttf → 213 karakter
-Light → NotoSansNandinagari-Light.ttf → 1 karakter
-Light → NotoSansNewTaiLue-Light.ttf → 83 karakter
-Light → NotoSansNKo-Light.ttf → 62 karakter
-Light → NotoSansOgham-Light.ttf → 29 karakter
-Light → NotoSansOlChiki-Light.ttf → 48 karakter
-Light → NotoSansOriya-Light.ttf → 91 karakter
-Light → NotoSansRejang-Light.ttf → 37 karakter
-Light → NotoSansRunic-Light.ttf → 89 karakter
-Light → NotoSansSamaritan-Light.ttf → 61 karakter
-Light → NotoSansSaurashtra-Light.ttf → 82 karakter
-Light → NotoSansSC-Light.ttf → 9257 karakter
-Light → NotoSansSinhala-Light.ttf → 91 karakter
-Light → NotoSansSundanese-Light.ttf → 72 karakter
-Light → NotoSansSylotiNagri-Light.ttf → 45 karakter
-Light → NotoSansSymbols-Light.ttf → 180 karakter
-Light → NotoSansSymbols2-Light.ttf → 790 karakter
-Light → NotoSansSyriac-Light.ttf → 77 karakter
-Light → NotoSansTagbanwa-Light.ttf → 18 karakter
-Light → NotoSansTaiLe-Light.ttf → 35 karakter
-Light → NotoSansTaiTham-Light.ttf → 127 karakter
-Light → NotoSansTaiViet-Light.ttf → 72 karakter
-Light → NotoSansTamil-Light.ttf → 57 karakter
-Light → NotoSansTelugu-Light.ttf → 100 karakter
-Light → NotoSansThaana-Light.ttf → 50 karakter
-Light → NotoSansThai-Light.ttf → 85 karakter
-Light → NotoSansTifinagh-Light.ttf → 59 karakter
-Light → NotoSansVai-Light.ttf → 300 karakter
-Light → NotoSansYi-Light.ttf → 1220 karakter
-Light → NotoSerifBalinese-Light.ttf → 1 karakter
-Light → NotoTraditionalNushu-Light.ttf → 13 karakter
-✅ Light font başarıyla kaydedildi: NotoUniversalOutput\NotoSansMultilanguage-Light.ttf
-Regular → NotoKufiArabic-Regular.ttf → 1555 karakter
-Regular → NotoMusic-Regular.ttf → 9 karakter
-Regular → NotoNastaliqUrdu-Regular.ttf → 5 karakter
-Regular → NotoSans-Regular.ttf → 2657 karakter
-Regular → NotoSansArmenian-Regular.ttf → 96 karakter
-Regular → NotoSansBalinese-Regular.ttf → 122 karakter
-Regular → NotoSansBamum-Regular.ttf → 88 karakter
-Regular → NotoSansBatak-Regular.ttf → 56 karakter
-Regular → NotoSansBengali-Regular.ttf → 109 karakter
-Regular → NotoSansBuginese-Regular.ttf → 31 karakter
-Regular → NotoSansBuhid-Regular.ttf → 22 karakter
-Regular → NotoSansCanadianAboriginal-Regular.ttf → 710 karakter
-Regular → NotoSansChakma-Regular.ttf → 10 karakter
-Regular → NotoSansCham-Regular.ttf → 83 karakter
-Regular → NotoSansCherokee-Regular.ttf → 172 karakter
-Regular → NotoSansCoptic-Regular.ttf → 137 karakter
-Regular → NotoSansDevanagari-Regular.ttf → 70 karakter
-Regular → NotoSansDuployan-Regular.ttf → 7 karakter
-Regular → NotoSansEthiopic-Regular.ttf → 496 karakter
-Regular → NotoSansGeorgian-Regular.ttf → 173 karakter
-Regular → NotoSansGlagolitic-Regular.ttf → 94 karakter
-Regular → NotoSansGrantha-Regular.ttf → 15 karakter
-Regular → NotoSansGujarati-Regular.ttf → 91 karakter
-Regular → NotoSansGurmukhi-Regular.ttf → 81 karakter
-Regular → NotoSansHanunoo-Regular.ttf → 21 karakter
-Regular → NotoSansHebrew-Regular.ttf → 134 karakter
-Regular → NotoSansHK-Regular.ttf → 18269 karakter
-Regular → NotoSansJavanese-Regular.ttf → 90 karakter
-Regular → NotoSansJP-Regular.ttf → 2372 karakter
-Regular → NotoSansKannada-Regular.ttf → 91 karakter
-Regular → NotoSansKayahLi-Regular.ttf → 47 karakter
-Regular → NotoSansKhmer-Regular.ttf → 146 karakter
-Regular → NotoSansKR-Regular.ttf → 11784 karakter
-Regular → NotoSansLao-Regular.ttf → 83 karakter
-Regular → NotoSansLaoLooped-Regular.ttf → 3 karakter
-Regular → NotoSansLepcha-Regular.ttf → 74 karakter
-Regular → NotoSansLimbu-Regular.ttf → 68 karakter
-Regular → NotoSansLisu-Regular.ttf → 48 karakter
-Regular → NotoSansMalayalam-Regular.ttf → 118 karakter
-Regular → NotoSansMandaic-Regular.ttf → 29 karakter
-Regular → NotoSansMath-Regular.ttf → 1156 karakter
-Regular → NotoSansMeeteiMayek-Regular.ttf → 79 karakter
-Regular → NotoSansMongolian-Regular.ttf → 158 karakter
-Regular → NotoSansMyanmar-Regular.ttf → 213 karakter
-Regular → NotoSansNandinagari-Regular.ttf → 1 karakter
-Regular → NotoSansNewTaiLue-Regular.ttf → 83 karakter
-Regular → NotoSansNKo-Regular.ttf → 62 karakter
-Regular → NotoSansOgham-Regular.ttf → 29 karakter
-Regular → NotoSansOlChiki-Regular.ttf → 48 karakter
-Regular → NotoSansOriya-Regular.ttf → 91 karakter
-Regular → NotoSansRejang-Regular.ttf → 37 karakter
-Regular → NotoSansRunic-Regular.ttf → 89 karakter
-Regular → NotoSansSamaritan-Regular.ttf → 61 karakter
-Regular → NotoSansSaurashtra-Regular.ttf → 82 karakter
-Regular → NotoSansSC-Regular.ttf → 9257 karakter
-Regular → NotoSansSinhala-Regular.ttf → 91 karakter
-Regular → NotoSansSundanese-Regular.ttf → 72 karakter
-Regular → NotoSansSylotiNagri-Regular.ttf → 45 karakter
-Regular → NotoSansSymbols-Regular.ttf → 180 karakter
-Regular → NotoSansSymbols2-Regular.ttf → 790 karakter
-Regular → NotoSansSyriac-Regular.ttf → 77 karakter
-Regular → NotoSansTagbanwa-Regular.ttf → 18 karakter
-Regular → NotoSansTaiLe-Regular.ttf → 35 karakter
-Regular → NotoSansTaiTham-Regular.ttf → 127 karakter
-Regular → NotoSansTaiViet-Regular.ttf → 72 karakter
-Regular → NotoSansTamil-Regular.ttf → 57 karakter
-Regular → NotoSansTelugu-Regular.ttf → 100 karakter
-Regular → NotoSansThaana-Regular.ttf → 50 karakter
-Regular → NotoSansThai-Regular.ttf → 85 karakter
-Regular → NotoSansTifinagh-Regular.ttf → 59 karakter
-Regular → NotoSansVai-Regular.ttf → 300 karakter
-Regular → NotoSansYi-Regular.ttf → 1220 karakter
-Regular → NotoSerifBalinese-Regular.ttf → 1 karakter
-Regular → NotoTraditionalNushu-Regular.ttf → 13 karakter
-✅ Regular font başarıyla kaydedildi: NotoUniversalOutput\NotoSansMultilanguage-Regular.ttf
-Medium → NotoKufiArabic-Medium.ttf → 1555 karakter
-Medium → NotoMusic-Medium.ttf → 9 karakter
-Medium → NotoNastaliqUrdu-Medium.ttf → 5 karakter
-Medium → NotoSans-Medium.ttf → 2657 karakter
-Medium → NotoSansArmenian-Medium.ttf → 96 karakter
-Medium → NotoSansBalinese-Medium.ttf → 122 karakter
-Medium → NotoSansBamum-Medium.ttf → 88 karakter
-Medium → NotoSansBatak-Medium.ttf → 56 karakter
-Medium → NotoSansBengali-Medium.ttf → 109 karakter
-Medium → NotoSansBuginese-Medium.ttf → 31 karakter
-Medium → NotoSansBuhid-Medium.ttf → 22 karakter
-Medium → NotoSansCanadianAboriginal-Medium.ttf → 710 karakter
-Medium → NotoSansChakma-Medium.ttf → 10 karakter
-Medium → NotoSansCham-Medium.ttf → 83 karakter
-Medium → NotoSansCherokee-Medium.ttf → 172 karakter
-Medium → NotoSansCoptic-Medium.ttf → 137 karakter
-Medium → NotoSansDevanagari-Medium.ttf → 70 karakter
-Medium → NotoSansDuployan-Medium.ttf → 7 karakter
-Medium → NotoSansEthiopic-Medium.ttf → 496 karakter
-Medium → NotoSansGeorgian-Medium.ttf → 173 karakter
-Medium → NotoSansGlagolitic-Medium.ttf → 94 karakter
-Medium → NotoSansGrantha-Medium.ttf → 15 karakter
-Medium → NotoSansGujarati-Medium.ttf → 91 karakter
-Medium → NotoSansGurmukhi-Medium.ttf → 81 karakter
-Medium → NotoSansHanunoo-Medium.ttf → 21 karakter
-Medium → NotoSansHebrew-Medium.ttf → 134 karakter
-Medium → NotoSansHK-Medium.ttf → 18269 karakter
-Medium → NotoSansJavanese-Medium.ttf → 90 karakter
-Medium → NotoSansJP-Medium.ttf → 2372 karakter
-Medium → NotoSansKannada-Medium.ttf → 91 karakter
-Medium → NotoSansKayahLi-Medium.ttf → 47 karakter
-Medium → NotoSansKhmer-Medium.ttf → 146 karakter
-Medium → NotoSansKR-Medium.ttf → 11784 karakter
-Medium → NotoSansLao-Medium.ttf → 83 karakter
-Medium → NotoSansLaoLooped-Medium.ttf → 3 karakter
-Medium → NotoSansLepcha-Medium.ttf → 74 karakter
-Medium → NotoSansLimbu-Medium.ttf → 68 karakter
-Medium → NotoSansLisu-Medium.ttf → 48 karakter
-Medium → NotoSansMalayalam-Medium.ttf → 118 karakter
-Medium → NotoSansMandaic-Medium.ttf → 29 karakter
-Medium → NotoSansMath-Medium.ttf → 1156 karakter
-Medium → NotoSansMeeteiMayek-Medium.ttf → 79 karakter
-Medium → NotoSansMongolian-Medium.ttf → 158 karakter
-Medium → NotoSansMyanmar-Medium.ttf → 213 karakter
-Medium → NotoSansNandinagari-Medium.ttf → 1 karakter
-Medium → NotoSansNewTaiLue-Medium.ttf → 83 karakter
-Medium → NotoSansNKo-Medium.ttf → 62 karakter
-Medium → NotoSansOgham-Medium.ttf → 29 karakter
-Medium → NotoSansOlChiki-Medium.ttf → 48 karakter
-Medium → NotoSansOriya-Medium.ttf → 91 karakter
-Medium → NotoSansRejang-Medium.ttf → 37 karakter
-Medium → NotoSansRunic-Medium.ttf → 89 karakter
-Medium → NotoSansSamaritan-Medium.ttf → 61 karakter
-Medium → NotoSansSaurashtra-Medium.ttf → 82 karakter
-Medium → NotoSansSC-Medium.ttf → 9257 karakter
-Medium → NotoSansSinhala-Medium.ttf → 91 karakter
-Medium → NotoSansSundanese-Medium.ttf → 72 karakter
-Medium → NotoSansSylotiNagri-Medium.ttf → 45 karakter
-Medium → NotoSansSymbols-Medium.ttf → 180 karakter
-Medium → NotoSansSymbols2-Medium.ttf → 790 karakter
-Medium → NotoSansSyriac-Medium.ttf → 77 karakter
-Medium → NotoSansTagbanwa-Medium.ttf → 18 karakter
-Medium → NotoSansTaiLe-Medium.ttf → 35 karakter
-Medium → NotoSansTaiTham-Medium.ttf → 127 karakter
-Medium → NotoSansTaiViet-Medium.ttf → 72 karakter
-Medium → NotoSansTamil-Medium.ttf → 57 karakter
-Medium → NotoSansTelugu-Medium.ttf → 100 karakter
-Medium → NotoSansThaana-Medium.ttf → 50 karakter
-Medium → NotoSansThai-Medium.ttf → 85 karakter
-Medium → NotoSansTifinagh-Medium.ttf → 59 karakter
-Medium → NotoSansVai-Medium.ttf → 300 karakter
-Medium → NotoSansYi-Medium.ttf → 1220 karakter
-Medium → NotoSerifBalinese-Medium.ttf → 1 karakter
-Medium → NotoTraditionalNushu-Medium.ttf → 13 karakter
-✅ Medium font başarıyla kaydedildi: NotoUniversalOutput\NotoSansMultilanguage-Medium.ttf
-SemiBold → NotoKufiArabic-SemiBold.ttf → 1555 karakter
-SemiBold → NotoMusic-SemiBold.ttf → 9 karakter
-SemiBold → NotoNastaliqUrdu-SemiBold.ttf → 5 karakter
-SemiBold → NotoSans-SemiBold.ttf → 2657 karakter
-SemiBold → NotoSansArmenian-SemiBold.ttf → 96 karakter
-SemiBold → NotoSansBalinese-SemiBold.ttf → 122 karakter
-SemiBold → NotoSansBamum-SemiBold.ttf → 88 karakter
-SemiBold → NotoSansBatak-SemiBold.ttf → 56 karakter
-SemiBold → NotoSansBengali-SemiBold.ttf → 109 karakter
-SemiBold → NotoSansBuginese-SemiBold.ttf → 31 karakter
-SemiBold → NotoSansBuhid-SemiBold.ttf → 22 karakter
-SemiBold → NotoSansCanadianAboriginal-SemiBold.ttf → 710 karakter
-SemiBold → NotoSansChakma-SemiBold.ttf → 10 karakter
-SemiBold → NotoSansCham-SemiBold.ttf → 83 karakter
-SemiBold → NotoSansCherokee-SemiBold.ttf → 172 karakter
-SemiBold → NotoSansCoptic-SemiBold.ttf → 137 karakter
-SemiBold → NotoSansDevanagari-SemiBold.ttf → 70 karakter
-SemiBold → NotoSansDuployan-SemiBold.ttf → 7 karakter
-SemiBold → NotoSansEthiopic-SemiBold.ttf → 496 karakter
-SemiBold → NotoSansGeorgian-SemiBold.ttf → 173 karakter
-SemiBold → NotoSansGlagolitic-SemiBold.ttf → 94 karakter
-SemiBold → NotoSansGrantha-SemiBold.ttf → 15 karakter
-SemiBold → NotoSansGujarati-SemiBold.ttf → 91 karakter
-SemiBold → NotoSansGurmukhi-SemiBold.ttf → 81 karakter
-SemiBold → NotoSansHanunoo-SemiBold.ttf → 21 karakter
-SemiBold → NotoSansHebrew-SemiBold.ttf → 134 karakter
-SemiBold → NotoSansHK-SemiBold.ttf → 18269 karakter
-SemiBold → NotoSansJavanese-SemiBold.ttf → 90 karakter
-SemiBold → NotoSansJP-SemiBold.ttf → 2372 karakter
-SemiBold → NotoSansKannada-SemiBold.ttf → 91 karakter
-SemiBold → NotoSansKayahLi-SemiBold.ttf → 47 karakter
-SemiBold → NotoSansKhmer-SemiBold.ttf → 146 karakter
-SemiBold → NotoSansKR-SemiBold.ttf → 11784 karakter
-SemiBold → NotoSansLao-SemiBold.ttf → 83 karakter
-SemiBold → NotoSansLaoLooped-SemiBold.ttf → 3 karakter
-SemiBold → NotoSansLepcha-SemiBold.ttf → 74 karakter
-SemiBold → NotoSansLimbu-SemiBold.ttf → 68 karakter
-SemiBold → NotoSansLisu-SemiBold.ttf → 48 karakter
-SemiBold → NotoSansMalayalam-SemiBold.ttf → 118 karakter
-SemiBold → NotoSansMandaic-SemiBold.ttf → 29 karakter
-SemiBold → NotoSansMath-SemiBold.ttf → 1156 karakter
-SemiBold → NotoSansMeeteiMayek-SemiBold.ttf → 79 karakter
-SemiBold → NotoSansMongolian-SemiBold.ttf → 158 karakter
-SemiBold → NotoSansMyanmar-SemiBold.ttf → 213 karakter
-SemiBold → NotoSansNandinagari-SemiBold.ttf → 1 karakter
-SemiBold → NotoSansNewTaiLue-SemiBold.ttf → 83 karakter
-SemiBold → NotoSansNKo-SemiBold.ttf → 62 karakter
-SemiBold → NotoSansOgham-SemiBold.ttf → 29 karakter
-SemiBold → NotoSansOlChiki-SemiBold.ttf → 48 karakter
-SemiBold → NotoSansOriya-SemiBold.ttf → 91 karakter
-SemiBold → NotoSansRejang-SemiBold.ttf → 37 karakter
-SemiBold → NotoSansRunic-SemiBold.ttf → 89 karakter
-SemiBold → NotoSansSamaritan-SemiBold.ttf → 61 karakter
-SemiBold → NotoSansSaurashtra-SemiBold.ttf → 82 karakter
-SemiBold → NotoSansSC-SemiBold.ttf → 9257 karakter
-SemiBold → NotoSansSinhala-SemiBold.ttf → 91 karakter
-SemiBold → NotoSansSundanese-SemiBold.ttf → 72 karakter
-SemiBold → NotoSansSylotiNagri-SemiBold.ttf → 45 karakter
-SemiBold → NotoSansSymbols-SemiBold.ttf → 180 karakter
-SemiBold → NotoSansSymbols2-SemiBold.ttf → 790 karakter
-SemiBold → NotoSansSyriac-SemiBold.ttf → 77 karakter
-SemiBold → NotoSansTagbanwa-SemiBold.ttf → 18 karakter
-SemiBold → NotoSansTaiLe-SemiBold.ttf → 35 karakter
-SemiBold → NotoSansTaiTham-SemiBold.ttf → 127 karakter
-SemiBold → NotoSansTaiViet-SemiBold.ttf → 72 karakter
-SemiBold → NotoSansTamil-SemiBold.ttf → 57 karakter
-SemiBold → NotoSansTelugu-SemiBold.ttf → 100 karakter
-SemiBold → NotoSansThaana-SemiBold.ttf → 50 karakter
-SemiBold → NotoSansThai-SemiBold.ttf → 85 karakter
-SemiBold → NotoSansTifinagh-SemiBold.ttf → 59 karakter
-SemiBold → NotoSansVai-SemiBold.ttf → 300 karakter
-SemiBold → NotoSansYi-SemiBold.ttf → 1220 karakter
-SemiBold → NotoSerifBalinese-SemiBold.ttf → 1 karakter
-SemiBold → NotoTraditionalNushu-SemiBold.ttf → 13 karakter
-✅ SemiBold font başarıyla kaydedildi: NotoUniversalOutput\NotoSansMultilanguage-SemiBold.ttf
-Bold → NotoKufiArabic-Bold.ttf → 1555 karakter
-Bold → NotoMusic-Bold.ttf → 9 karakter
-Bold → NotoNastaliqUrdu-Bold.ttf → 5 karakter
-Bold → NotoSans-Bold.ttf → 2657 karakter
-Bold → NotoSansArmenian-Bold.ttf → 96 karakter
-Bold → NotoSansBalinese-Bold.ttf → 122 karakter
-Bold → NotoSansBamum-Bold.ttf → 88 karakter
-Bold → NotoSansBatak-Bold.ttf → 56 karakter
-Bold → NotoSansBengali-Bold.ttf → 109 karakter
-Bold → NotoSansBuginese-Bold.ttf → 31 karakter
-Bold → NotoSansBuhid-Bold.ttf → 22 karakter
-Bold → NotoSansCanadianAboriginal-Bold.ttf → 710 karakter
-Bold → NotoSansChakma-Bold.ttf → 10 karakter
-Bold → NotoSansCham-Bold.ttf → 83 karakter
-Bold → NotoSansCherokee-Bold.ttf → 172 karakter
-Bold → NotoSansCoptic-Bold.ttf → 137 karakter
-Bold → NotoSansDevanagari-Bold.ttf → 70 karakter
-Bold → NotoSansDuployan-Bold.ttf → 7 karakter
-Bold → NotoSansEthiopic-Bold.ttf → 496 karakter
-Bold → NotoSansGeorgian-Bold.ttf → 173 karakter
-Bold → NotoSansGlagolitic-Bold.ttf → 94 karakter
-Bold → NotoSansGrantha-Bold.ttf → 15 karakter
-Bold → NotoSansGujarati-Bold.ttf → 91 karakter
-Bold → NotoSansGurmukhi-Bold.ttf → 81 karakter
-Bold → NotoSansHanunoo-Bold.ttf → 21 karakter
-Bold → NotoSansHebrew-Bold.ttf → 134 karakter
-Bold → NotoSansHK-Bold.ttf → 18269 karakter
-Bold → NotoSansJavanese-Bold.ttf → 90 karakter
-Bold → NotoSansJP-Bold.ttf → 2372 karakter
-Bold → NotoSansKannada-Bold.ttf → 91 karakter
-Bold → NotoSansKayahLi-Bold.ttf → 47 karakter
-Bold → NotoSansKhmer-Bold.ttf → 146 karakter
-Bold → NotoSansKR-Bold.ttf → 11784 karakter
-Bold → NotoSansLao-Bold.ttf → 83 karakter
-Bold → NotoSansLaoLooped-Bold.ttf → 3 karakter
-Bold → NotoSansLepcha-Bold.ttf → 74 karakter
-Bold → NotoSansLimbu-Bold.ttf → 68 karakter
-Bold → NotoSansLisu-Bold.ttf → 48 karakter
-Bold → NotoSansMalayalam-Bold.ttf → 118 karakter
-Bold → NotoSansMandaic-Bold.ttf → 29 karakter
-Bold → NotoSansMath-Bold.ttf → 1156 karakter
-Bold → NotoSansMeeteiMayek-Bold.ttf → 79 karakter
-Bold → NotoSansMongolian-Bold.ttf → 158 karakter
-Bold → NotoSansMyanmar-Bold.ttf → 213 karakter
-Bold → NotoSansNandinagari-Bold.ttf → 1 karakter
-Bold → NotoSansNewTaiLue-Bold.ttf → 83 karakter
-Bold → NotoSansNKo-Bold.ttf → 62 karakter
-Bold → NotoSansOgham-Bold.ttf → 29 karakter
-Bold → NotoSansOlChiki-Bold.ttf → 48 karakter
-Bold → NotoSansOriya-Bold.ttf → 91 karakter
-Bold → NotoSansRejang-Bold.ttf → 37 karakter
-Bold → NotoSansRunic-Bold.ttf → 89 karakter
-Bold → NotoSansSamaritan-Bold.ttf → 61 karakter
-Bold → NotoSansSaurashtra-Bold.ttf → 82 karakter
-Bold → NotoSansSC-Bold.ttf → 9257 karakter
-Bold → NotoSansSinhala-Bold.ttf → 91 karakter
-Bold → NotoSansSundanese-Bold.ttf → 72 karakter
-Bold → NotoSansSylotiNagri-Bold.ttf → 45 karakter
-Bold → NotoSansSymbols-Bold.ttf → 180 karakter
-Bold → NotoSansSymbols2-Bold.ttf → 790 karakter
-Bold → NotoSansSyriac-Bold.ttf → 77 karakter
-Bold → NotoSansTagbanwa-Bold.ttf → 18 karakter
-Bold → NotoSansTaiLe-Bold.ttf → 35 karakter
-Bold → NotoSansTaiTham-Bold.ttf → 127 karakter
-Bold → NotoSansTaiViet-Bold.ttf → 72 karakter
-Bold → NotoSansTamil-Bold.ttf → 57 karakter
-Bold → NotoSansTelugu-Bold.ttf → 100 karakter
-Bold → NotoSansThaana-Bold.ttf → 50 karakter
-Bold → NotoSansThai-Bold.ttf → 85 karakter
-Bold → NotoSansTifinagh-Bold.ttf → 59 karakter
-Bold → NotoSansVai-Bold.ttf → 300 karakter
-Bold → NotoSansYi-Bold.ttf → 1220 karakter
-Bold → NotoSerifBalinese-Bold.ttf → 1 karakter
-Bold → NotoTraditionalNushu-Bold.ttf → 13 karakter
-✅ Bold font başarıyla kaydedildi: NotoUniversalOutput\NotoSansMultilanguage-Bold.ttf
-ExtraBold → NotoKufiArabic-ExtraBold.ttf → 1555 karakter
-ExtraBold → NotoMusic-ExtraBold.ttf → 9 karakter
-ExtraBold → NotoNastaliqUrdu-ExtraBold.ttf → 5 karakter
-ExtraBold → NotoSans-ExtraBold.ttf → 2657 karakter
-ExtraBold → NotoSansArmenian-ExtraBold.ttf → 96 karakter
-ExtraBold → NotoSansBalinese-ExtraBold.ttf → 122 karakter
-ExtraBold → NotoSansBamum-ExtraBold.ttf → 88 karakter
-ExtraBold → NotoSansBatak-ExtraBold.ttf → 56 karakter
-ExtraBold → NotoSansBengali-ExtraBold.ttf → 109 karakter
-ExtraBold → NotoSansBuginese-ExtraBold.ttf → 31 karakter
-ExtraBold → NotoSansBuhid-ExtraBold.ttf → 22 karakter
-ExtraBold → NotoSansCanadianAboriginal-ExtraBold.ttf → 710 karakter
-ExtraBold → NotoSansChakma-ExtraBold.ttf → 10 karakter
-ExtraBold → NotoSansCham-ExtraBold.ttf → 83 karakter
-ExtraBold → NotoSansCherokee-ExtraBold.ttf → 172 karakter
-ExtraBold → NotoSansCoptic-ExtraBold.ttf → 137 karakter
-ExtraBold → NotoSansDevanagari-ExtraBold.ttf → 70 karakter
-ExtraBold → NotoSansDuployan-ExtraBold.ttf → 7 karakter
-ExtraBold → NotoSansEthiopic-ExtraBold.ttf → 496 karakter
-ExtraBold → NotoSansGeorgian-ExtraBold.ttf → 173 karakter
-ExtraBold → NotoSansGlagolitic-ExtraBold.ttf → 94 karakter
-ExtraBold → NotoSansGrantha-ExtraBold.ttf → 15 karakter
-ExtraBold → NotoSansGujarati-ExtraBold.ttf → 91 karakter
-ExtraBold → NotoSansGurmukhi-ExtraBold.ttf → 81 karakter
-ExtraBold → NotoSansHanunoo-ExtraBold.ttf → 21 karakter
-ExtraBold → NotoSansHebrew-ExtraBold.ttf → 134 karakter
-ExtraBold → NotoSansHK-ExtraBold.ttf → 18269 karakter
-ExtraBold → NotoSansJavanese-ExtraBold.ttf → 90 karakter
-ExtraBold → NotoSansJP-ExtraBold.ttf → 2372 karakter
-ExtraBold → NotoSansKannada-ExtraBold.ttf → 91 karakter
-ExtraBold → NotoSansKayahLi-ExtraBold.ttf → 47 karakter
-ExtraBold → NotoSansKhmer-ExtraBold.ttf → 146 karakter
-ExtraBold → NotoSansKR-ExtraBold.ttf → 11784 karakter
-ExtraBold → NotoSansLao-ExtraBold.ttf → 83 karakter
-ExtraBold → NotoSansLaoLooped-ExtraBold.ttf → 3 karakter
-ExtraBold → NotoSansLepcha-ExtraBold.ttf → 74 karakter
-ExtraBold → NotoSansLimbu-ExtraBold.ttf → 68 karakter
-ExtraBold → NotoSansLisu-ExtraBold.ttf → 48 karakter
-ExtraBold → NotoSansMalayalam-ExtraBold.ttf → 118 karakter
-ExtraBold → NotoSansMandaic-ExtraBold.ttf → 29 karakter
-ExtraBold → NotoSansMath-ExtraBold.ttf → 1156 karakter
-ExtraBold → NotoSansMeeteiMayek-ExtraBold.ttf → 79 karakter
-ExtraBold → NotoSansMongolian-ExtraBold.ttf → 158 karakter
-ExtraBold → NotoSansMyanmar-ExtraBold.ttf → 213 karakter
-ExtraBold → NotoSansNandinagari-ExtraBold.ttf → 1 karakter
-ExtraBold → NotoSansNewTaiLue-ExtraBold.ttf → 83 karakter
-ExtraBold → NotoSansNKo-ExtraBold.ttf → 62 karakter
-ExtraBold → NotoSansOgham-ExtraBold.ttf → 29 karakter
-ExtraBold → NotoSansOlChiki-ExtraBold.ttf → 48 karakter
-ExtraBold → NotoSansOriya-ExtraBold.ttf → 91 karakter
-ExtraBold → NotoSansRejang-ExtraBold.ttf → 37 karakter
-ExtraBold → NotoSansRunic-ExtraBold.ttf → 89 karakter
-ExtraBold → NotoSansSamaritan-ExtraBold.ttf → 61 karakter
-ExtraBold → NotoSansSaurashtra-ExtraBold.ttf → 82 karakter
-ExtraBold → NotoSansSC-ExtraBold.ttf → 9257 karakter
-ExtraBold → NotoSansSinhala-ExtraBold.ttf → 91 karakter
-ExtraBold → NotoSansSundanese-ExtraBold.ttf → 72 karakter
-ExtraBold → NotoSansSylotiNagri-ExtraBold.ttf → 45 karakter
-ExtraBold → NotoSansSymbols-ExtraBold.ttf → 180 karakter
-ExtraBold → NotoSansSymbols2-ExtraBold.ttf → 790 karakter
-ExtraBold → NotoSansSyriac-ExtraBold.ttf → 77 karakter
-ExtraBold → NotoSansTagbanwa-ExtraBold.ttf → 18 karakter
-ExtraBold → NotoSansTaiLe-ExtraBold.ttf → 35 karakter
-ExtraBold → NotoSansTaiTham-ExtraBold.ttf → 127 karakter
-ExtraBold → NotoSansTaiViet-ExtraBold.ttf → 72 karakter
-ExtraBold → NotoSansTamil-ExtraBold.ttf → 57 karakter
-ExtraBold → NotoSansTelugu-ExtraBold.ttf → 100 karakter
-ExtraBold → NotoSansThaana-ExtraBold.ttf → 50 karakter
-ExtraBold → NotoSansThai-ExtraBold.ttf → 85 karakter
-ExtraBold → NotoSansTifinagh-ExtraBold.ttf → 59 karakter
-ExtraBold → NotoSansVai-ExtraBold.ttf → 300 karakter
-ExtraBold → NotoSansYi-ExtraBold.ttf → 1220 karakter
-ExtraBold → NotoSerifBalinese-ExtraBold.ttf → 1 karakter
-ExtraBold → NotoTraditionalNushu-ExtraBold.ttf → 13 karakter
-✅ ExtraBold font başarıyla kaydedildi: NotoUniversalOutput\NotoSansMultilanguage-ExtraBold.ttf
-Black → NotoKufiArabic-Black.ttf → 1555 karakter
-Black → NotoMusic-Black.ttf → 9 karakter
-Black → NotoNastaliqUrdu-Black.ttf → 5 karakter
-Black → NotoSans-Black.ttf → 2657 karakter
-Black → NotoSansArmenian-Black.ttf → 96 karakter
-Black → NotoSansBalinese-Black.ttf → 122 karakter
-Black → NotoSansBamum-Black.ttf → 88 karakter
-Black → NotoSansBatak-Black.ttf → 56 karakter
-Black → NotoSansBengali-Black.ttf → 109 karakter
-Black → NotoSansBuginese-Black.ttf → 31 karakter
-Black → NotoSansBuhid-Black.ttf → 22 karakter
-Black → NotoSansCanadianAboriginal-Black.ttf → 710 karakter
-Black → NotoSansChakma-Black.ttf → 10 karakter
-Black → NotoSansCham-Black.ttf → 83 karakter
-Black → NotoSansCherokee-Black.ttf → 172 karakter
-Black → NotoSansCoptic-Black.ttf → 137 karakter
-Black → NotoSansDevanagari-Black.ttf → 70 karakter
-Black → NotoSansDuployan-Black.ttf → 7 karakter
-Black → NotoSansEthiopic-Black.ttf → 496 karakter
-Black → NotoSansGeorgian-Black.ttf → 173 karakter
-Black → NotoSansGlagolitic-Black.ttf → 94 karakter
-Black → NotoSansGrantha-Black.ttf → 15 karakter
-Black → NotoSansGujarati-Black.ttf → 91 karakter
-Black → NotoSansGurmukhi-Black.ttf → 81 karakter
-Black → NotoSansHanunoo-Black.ttf → 21 karakter
-Black → NotoSansHebrew-Black.ttf → 134 karakter
-Black → NotoSansHK-Black.ttf → 18269 karakter
-Black → NotoSansJavanese-Black.ttf → 90 karakter
-Black → NotoSansJP-Black.ttf → 2372 karakter
-Black → NotoSansKannada-Black.ttf → 91 karakter
-Black → NotoSansKayahLi-Black.ttf → 47 karakter
-Black → NotoSansKhmer-Black.ttf → 146 karakter
-Black → NotoSansKR-Black.ttf → 11784 karakter
-Black → NotoSansLao-Black.ttf → 83 karakter
-Black → NotoSansLaoLooped-Black.ttf → 3 karakter
-Black → NotoSansLepcha-Black.ttf → 74 karakter
-Black → NotoSansLimbu-Black.ttf → 68 karakter
-Black → NotoSansLisu-Black.ttf → 48 karakter
-Black → NotoSansMalayalam-Black.ttf → 118 karakter
-Black → NotoSansMandaic-Black.ttf → 29 karakter
-Black → NotoSansMath-Black.ttf → 1156 karakter
-Black → NotoSansMeeteiMayek-Black.ttf → 79 karakter
-Black → NotoSansMongolian-Black.ttf → 158 karakter
-Black → NotoSansMyanmar-Black.ttf → 213 karakter
-Black → NotoSansNandinagari-Black.ttf → 1 karakter
-Black → NotoSansNewTaiLue-Black.ttf → 83 karakter
-Black → NotoSansNKo-Black.ttf → 62 karakter
-Black → NotoSansOgham-Black.ttf → 29 karakter
-Black → NotoSansOlChiki-Black.ttf → 48 karakter
-Black → NotoSansOriya-Black.ttf → 91 karakter
-Black → NotoSansRejang-Black.ttf → 37 karakter
-Black → NotoSansRunic-Black.ttf → 89 karakter
-Black → NotoSansSamaritan-Black.ttf → 61 karakter
-Black → NotoSansSaurashtra-Black.ttf → 82 karakter
-Black → NotoSansSC-Black.ttf → 9257 karakter
-Black → NotoSansSinhala-Black.ttf → 91 karakter
-Black → NotoSansSundanese-Black.ttf → 72 karakter
-Black → NotoSansSylotiNagri-Black.ttf → 45 karakter
-Black → NotoSansSymbols-Black.ttf → 180 karakter
-Black → NotoSansSymbols2-Black.ttf → 790 karakter
-Black → NotoSansSyriac-Black.ttf → 77 karakter
-Black → NotoSansTagbanwa-Black.ttf → 18 karakter
-Black → NotoSansTaiLe-Black.ttf → 35 karakter
-Black → NotoSansTaiTham-Black.ttf → 127 karakter
-Black → NotoSansTaiViet-Black.ttf → 72 karakter
-Black → NotoSansTamil-Black.ttf → 57 karakter
-Black → NotoSansTelugu-Black.ttf → 100 karakter
-Black → NotoSansThaana-Black.ttf → 50 karakter
-Black → NotoSansThai-Black.ttf → 85 karakter
-Black → NotoSansTifinagh-Black.ttf → 59 karakter
-Black → NotoSansVai-Black.ttf → 300 karakter
-Black → NotoSansYi-Black.ttf → 1220 karakter
-Black → NotoSerifBalinese-Black.ttf → 1 karakter
-Black → NotoTraditionalNushu-Black.ttf → 13 karakter
-✅ Black font başarıyla kaydedildi: NotoUniversalOutput\NotoSansMultilanguage-Black.ttf
+Thin → NotoSansSC-Thin.ttf(glyph count: 30445) → 30445 characters
+Thin → NotoSansTC-Thin.ttf(glyph count: 18797) → 9 characters
+Thin → NotoSansHK-Thin.ttf(glyph count: 18807) → 4 characters
+Thin → NotoSansJP-Thin.ttf(glyph count: 16077) → 229 characters
+Thin → NotoSansKR-Thin.ttf(glyph count: 22862) → 11533 characters
+Thin → NotoKufiArabic-Thin.ttf(glyph count: 1555) → 1325 characters
+Thin → NotoMusic-Thin.ttf(glyph count: 341) → 2 characters
+Thin → NotoSans-Thin.ttf(glyph count: 3006) → 2362 characters
+Thin → NotoSansArmenian-Thin.ttf(glyph count: 430) → 96 characters
+Thin → NotoSansBalinese-Thin.ttf(glyph count: 460) → 122 characters
+Thin → NotoSansBamum-Thin.ttf(glyph count: 422) → 88 characters
+Thin → NotoSansBatak-Thin.ttf(glyph count: 391) → 56 characters
+Thin → NotoSansBengali-Thin.ttf(glyph count: 456) → 109 characters
+Thin → NotoSansBuginese-Thin.ttf(glyph count: 370) → 31 characters
+Thin → NotoSansBuhid-Thin.ttf(glyph count: 361) → 22 characters
+Thin → NotoSansCanadianAboriginal-Thin.ttf(glyph count: 1041) → 710 characters
+Thin → NotoSansChakma-Thin.ttf(glyph count: 358) → 10 characters
+Thin → NotoSansCham-Thin.ttf(glyph count: 408) → 83 characters
+Thin → NotoSansCherokee-Thin.ttf(glyph count: 511) → 172 characters
+Thin → NotoSansCoptic-Thin.ttf(glyph count: 490) → 137 characters
+Thin → NotoSansDevanagari-Thin.ttf(glyph count: 541) → 70 characters
+Thin → NotoSansDuployan-Thin.ttf(glyph count: 339) → 6 characters
+Thin → NotoSansEthiopic-Thin.ttf(glyph count: 832) → 496 characters
+Thin → NotoSansGeorgian-Thin.ttf(glyph count: 509) → 173 characters
+Thin → NotoSansGlagolitic-Thin.ttf(glyph count: 436) → 94 characters
+Thin → NotoSansGrantha-Thin.ttf(glyph count: 353) → 15 characters
+Thin → NotoSansGujarati-Thin.ttf(glyph count: 442) → 91 characters
+Thin → NotoSansGurmukhi-Thin.ttf(glyph count: 436) → 81 characters
+Thin → NotoSansHanunoo-Thin.ttf(glyph count: 360) → 21 characters
+Thin → NotoSansHebrew-Thin.ttf(glyph count: 464) → 134 characters
+Thin → NotoSansJavanese-Thin.ttf(glyph count: 428) → 90 characters
+Thin → NotoSansKannada-Thin.ttf(glyph count: 445) → 91 characters
+Thin → NotoSansKayahLi-Thin.ttf(glyph count: 387) → 47 characters
+Thin → NotoSansKhmer-Thin.ttf(glyph count: 483) → 146 characters
+Thin → NotoSansLao-Thin.ttf(glyph count: 421) → 83 characters
+Thin → NotoSansLaoLooped-Thin.ttf(glyph count: 429) → 3 characters
+Thin → NotoSansLepcha-Thin.ttf(glyph count: 411) → 74 characters
+Thin → NotoSansLimbu-Thin.ttf(glyph count: 396) → 68 characters
+Thin → NotoSansLisu-Thin.ttf(glyph count: 389) → 48 characters
+Thin → NotoSansMalayalam-Thin.ttf(glyph count: 467) → 118 characters
+Thin → NotoSansMandaic-Thin.ttf(glyph count: 355) → 29 characters
+Thin → NotoSansMath-Thin.ttf(glyph count: 1805) → 1156 characters
+Thin → NotoSansMeeteiMayek-Thin.ttf(glyph count: 419) → 79 characters
+Thin → NotoSansMongolian-Thin.ttf(glyph count: 503) → 158 characters
+Thin → NotoSansMyanmar-Thin.ttf(glyph count: 239) → 213 characters
+Thin → NotoSansNandinagari-Thin.ttf(glyph count: 354) → 1 characters
+Thin → NotoSansNewTaiLue-Thin.ttf(glyph count: 436) → 83 characters
+Thin → NotoSansNKo-Thin.ttf(glyph count: 408) → 62 characters
+Thin → NotoSansOgham-Thin.ttf(glyph count: 364) → 29 characters
+Thin → NotoSansOlChiki-Thin.ttf(glyph count: 384) → 48 characters
+Thin → NotoSansOriya-Thin.ttf(glyph count: 423) → 91 characters
+Thin → NotoSansRejang-Thin.ttf(glyph count: 374) → 37 characters
+Thin → NotoSansRunic-Thin.ttf(glyph count: 426) → 89 characters
+Thin → NotoSansSamaritan-Thin.ttf(glyph count: 397) → 61 characters
+Thin → NotoSansSaurashtra-Thin.ttf(glyph count: 419) → 82 characters
+Thin → NotoSansSinhala-Thin.ttf(glyph count: 433) → 91 characters
+Thin → NotoSansSundanese-Thin.ttf(glyph count: 408) → 72 characters
+Thin → NotoSansSylotiNagri-Thin.ttf(glyph count: 397) → 45 characters
+Thin → NotoSansSymbols-Thin.ttf(glyph count: 828) → 180 characters
+Thin → NotoSansSymbols2-Thin.ttf(glyph count: 1347) → 790 characters
+Thin → NotoSansSyriac-Thin.ttf(glyph count: 456) → 77 characters
+Thin → NotoSansTagbanwa-Thin.ttf(glyph count: 359) → 18 characters
+Thin → NotoSansTaiLe-Thin.ttf(glyph count: 390) → 35 characters
+Thin → NotoSansTaiTham-Thin.ttf(glyph count: 466) → 127 characters
+Thin → NotoSansTaiViet-Thin.ttf(glyph count: 409) → 72 characters
+Thin → NotoSansTamil-Thin.ttf(glyph count: 424) → 57 characters
+Thin → NotoSansTelugu-Thin.ttf(glyph count: 444) → 100 characters
+Thin → NotoSansThaana-Thin.ttf(glyph count: 408) → 50 characters
+Thin → NotoSansThai-Thin.ttf(glyph count: 426) → 85 characters
+Thin → NotoSansTifinagh-Thin.ttf(glyph count: 399) → 59 characters
+Thin → NotoSansVai-Thin.ttf(glyph count: 635) → 300 characters
+Thin → NotoSansYi-Thin.ttf(glyph count: 1586) → 1220 characters
+Thin → NotoSerifBalinese-Thin.ttf(glyph count: 448) → 1 characters
+Thin → NotoTraditionalNushu-Thin.ttf(glyph count: 376) → 13 characters
+✅ Thin font successfully saved: NotoMultilanguageFonts\NotoSansMultilanguage-Thin.ttf
+Light → NotoSansSC-Light.ttf(glyph count: 30445) → 30445 characters
+Light → NotoSansTC-Light.ttf(glyph count: 18797) → 9 characters
+Light → NotoSansHK-Light.ttf(glyph count: 18807) → 4 characters
+Light → NotoSansJP-Light.ttf(glyph count: 16077) → 229 characters
+Light → NotoSansKR-Light.ttf(glyph count: 22862) → 11533 characters
+Light → NotoKufiArabic-Light.ttf(glyph count: 1555) → 1325 characters
+Light → NotoMusic-Light.ttf(glyph count: 341) → 2 characters
+Light → NotoSans-Light.ttf(glyph count: 3006) → 2362 characters
+Light → NotoSansArmenian-Light.ttf(glyph count: 430) → 96 characters
+Light → NotoSansBalinese-Light.ttf(glyph count: 460) → 122 characters
+Light → NotoSansBamum-Light.ttf(glyph count: 422) → 88 characters
+Light → NotoSansBatak-Light.ttf(glyph count: 391) → 56 characters
+Light → NotoSansBengali-Light.ttf(glyph count: 456) → 109 characters
+Light → NotoSansBuginese-Light.ttf(glyph count: 370) → 31 characters
+Light → NotoSansBuhid-Light.ttf(glyph count: 361) → 22 characters
+Light → NotoSansCanadianAboriginal-Light.ttf(glyph count: 1041) → 710 characters
+Light → NotoSansChakma-Light.ttf(glyph count: 358) → 10 characters
+Light → NotoSansCham-Light.ttf(glyph count: 408) → 83 characters
+Light → NotoSansCherokee-Light.ttf(glyph count: 511) → 172 characters
+Light → NotoSansCoptic-Light.ttf(glyph count: 490) → 137 characters
+Light → NotoSansDevanagari-Light.ttf(glyph count: 541) → 70 characters
+Light → NotoSansDuployan-Light.ttf(glyph count: 339) → 6 characters
+Light → NotoSansEthiopic-Light.ttf(glyph count: 832) → 496 characters
+Light → NotoSansGeorgian-Light.ttf(glyph count: 509) → 173 characters
+Light → NotoSansGlagolitic-Light.ttf(glyph count: 436) → 94 characters
+Light → NotoSansGrantha-Light.ttf(glyph count: 353) → 15 characters
+Light → NotoSansGujarati-Light.ttf(glyph count: 442) → 91 characters
+Light → NotoSansGurmukhi-Light.ttf(glyph count: 436) → 81 characters
+Light → NotoSansHanunoo-Light.ttf(glyph count: 360) → 21 characters
+Light → NotoSansHebrew-Light.ttf(glyph count: 464) → 134 characters
+Light → NotoSansJavanese-Light.ttf(glyph count: 428) → 90 characters
+Light → NotoSansKannada-Light.ttf(glyph count: 445) → 91 characters
+Light → NotoSansKayahLi-Light.ttf(glyph count: 387) → 47 characters
+Light → NotoSansKhmer-Light.ttf(glyph count: 483) → 146 characters
+Light → NotoSansLao-Light.ttf(glyph count: 421) → 83 characters
+Light → NotoSansLaoLooped-Light.ttf(glyph count: 429) → 3 characters
+Light → NotoSansLepcha-Light.ttf(glyph count: 411) → 74 characters
+Light → NotoSansLimbu-Light.ttf(glyph count: 396) → 68 characters
+Light → NotoSansLisu-Light.ttf(glyph count: 389) → 48 characters
+Light → NotoSansMalayalam-Light.ttf(glyph count: 467) → 118 characters
+Light → NotoSansMandaic-Light.ttf(glyph count: 355) → 29 characters
+Light → NotoSansMath-Light.ttf(glyph count: 1805) → 1156 characters
+Light → NotoSansMeeteiMayek-Light.ttf(glyph count: 419) → 79 characters
+Light → NotoSansMongolian-Light.ttf(glyph count: 503) → 158 characters
+Light → NotoSansMyanmar-Light.ttf(glyph count: 239) → 213 characters
+Light → NotoSansNandinagari-Light.ttf(glyph count: 354) → 1 characters
+Light → NotoSansNewTaiLue-Light.ttf(glyph count: 436) → 83 characters
+Light → NotoSansNKo-Light.ttf(glyph count: 408) → 62 characters
+Light → NotoSansOgham-Light.ttf(glyph count: 364) → 29 characters
+Light → NotoSansOlChiki-Light.ttf(glyph count: 384) → 48 characters
+Light → NotoSansOriya-Light.ttf(glyph count: 423) → 91 characters
+Light → NotoSansRejang-Light.ttf(glyph count: 374) → 37 characters
+Light → NotoSansRunic-Light.ttf(glyph count: 426) → 89 characters
+Light → NotoSansSamaritan-Light.ttf(glyph count: 397) → 61 characters
+Light → NotoSansSaurashtra-Light.ttf(glyph count: 419) → 82 characters
+Light → NotoSansSinhala-Light.ttf(glyph count: 433) → 91 characters
+Light → NotoSansSundanese-Light.ttf(glyph count: 408) → 72 characters
+Light → NotoSansSylotiNagri-Light.ttf(glyph count: 397) → 45 characters
+Light → NotoSansSymbols-Light.ttf(glyph count: 828) → 180 characters
+Light → NotoSansSymbols2-Light.ttf(glyph count: 1347) → 790 characters
+Light → NotoSansSyriac-Light.ttf(glyph count: 456) → 77 characters
+Light → NotoSansTagbanwa-Light.ttf(glyph count: 359) → 18 characters
+Light → NotoSansTaiLe-Light.ttf(glyph count: 390) → 35 characters
+Light → NotoSansTaiTham-Light.ttf(glyph count: 466) → 127 characters
+Light → NotoSansTaiViet-Light.ttf(glyph count: 409) → 72 characters
+Light → NotoSansTamil-Light.ttf(glyph count: 424) → 57 characters
+Light → NotoSansTelugu-Light.ttf(glyph count: 444) → 100 characters
+Light → NotoSansThaana-Light.ttf(glyph count: 408) → 50 characters
+Light → NotoSansThai-Light.ttf(glyph count: 426) → 85 characters
+Light → NotoSansTifinagh-Light.ttf(glyph count: 399) → 59 characters
+Light → NotoSansVai-Light.ttf(glyph count: 635) → 300 characters
+Light → NotoSansYi-Light.ttf(glyph count: 1586) → 1220 characters
+Light → NotoSerifBalinese-Light.ttf(glyph count: 448) → 1 characters
+Light → NotoTraditionalNushu-Light.ttf(glyph count: 376) → 13 characters
+✅ Light font successfully saved: NotoMultilanguageFonts\NotoSansMultilanguage-Light.ttf
+Regular → NotoSansSC-Regular.ttf(glyph count: 30445) → 30445 characters
+Regular → NotoSansTC-Regular.ttf(glyph count: 18797) → 9 characters
+Regular → NotoSansHK-Regular.ttf(glyph count: 18807) → 4 characters
+Regular → NotoSansJP-Regular.ttf(glyph count: 16077) → 229 characters
+Regular → NotoSansKR-Regular.ttf(glyph count: 22862) → 11533 characters
+Regular → NotoKufiArabic-Regular.ttf(glyph count: 1555) → 1325 characters
+Regular → NotoMusic-Regular.ttf(glyph count: 341) → 2 characters
+Regular → NotoSans-Regular.ttf(glyph count: 3006) → 2362 characters
+Regular → NotoSansArmenian-Regular.ttf(glyph count: 430) → 96 characters
+Regular → NotoSansBalinese-Regular.ttf(glyph count: 460) → 122 characters
+Regular → NotoSansBamum-Regular.ttf(glyph count: 422) → 88 characters
+Regular → NotoSansBatak-Regular.ttf(glyph count: 391) → 56 characters
+Regular → NotoSansBengali-Regular.ttf(glyph count: 456) → 109 characters
+Regular → NotoSansBuginese-Regular.ttf(glyph count: 370) → 31 characters
+Regular → NotoSansBuhid-Regular.ttf(glyph count: 361) → 22 characters
+Regular → NotoSansCanadianAboriginal-Regular.ttf(glyph count: 1041) → 710 characters
+Regular → NotoSansChakma-Regular.ttf(glyph count: 358) → 10 characters
+Regular → NotoSansCham-Regular.ttf(glyph count: 408) → 83 characters
+Regular → NotoSansCherokee-Regular.ttf(glyph count: 511) → 172 characters
+Regular → NotoSansCoptic-Regular.ttf(glyph count: 490) → 137 characters
+Regular → NotoSansDevanagari-Regular.ttf(glyph count: 541) → 70 characters
+Regular → NotoSansDuployan-Regular.ttf(glyph count: 339) → 6 characters
+Regular → NotoSansEthiopic-Regular.ttf(glyph count: 832) → 496 characters
+Regular → NotoSansGeorgian-Regular.ttf(glyph count: 509) → 173 characters
+Regular → NotoSansGlagolitic-Regular.ttf(glyph count: 436) → 94 characters
+Regular → NotoSansGrantha-Regular.ttf(glyph count: 353) → 15 characters
+Regular → NotoSansGujarati-Regular.ttf(glyph count: 442) → 91 characters
+Regular → NotoSansGurmukhi-Regular.ttf(glyph count: 436) → 81 characters
+Regular → NotoSansHanunoo-Regular.ttf(glyph count: 360) → 21 characters
+Regular → NotoSansHebrew-Regular.ttf(glyph count: 464) → 134 characters
+Regular → NotoSansJavanese-Regular.ttf(glyph count: 428) → 90 characters
+Regular → NotoSansKannada-Regular.ttf(glyph count: 445) → 91 characters
+Regular → NotoSansKayahLi-Regular.ttf(glyph count: 387) → 47 characters
+Regular → NotoSansKhmer-Regular.ttf(glyph count: 483) → 146 characters
+Regular → NotoSansLao-Regular.ttf(glyph count: 421) → 83 characters
+Regular → NotoSansLaoLooped-Regular.ttf(glyph count: 429) → 3 characters
+Regular → NotoSansLepcha-Regular.ttf(glyph count: 411) → 74 characters
+Regular → NotoSansLimbu-Regular.ttf(glyph count: 396) → 68 characters
+Regular → NotoSansLisu-Regular.ttf(glyph count: 389) → 48 characters
+Regular → NotoSansMalayalam-Regular.ttf(glyph count: 467) → 118 characters
+Regular → NotoSansMandaic-Regular.ttf(glyph count: 355) → 29 characters
+Regular → NotoSansMath-Regular.ttf(glyph count: 1805) → 1156 characters
+Regular → NotoSansMeeteiMayek-Regular.ttf(glyph count: 419) → 79 characters
+Regular → NotoSansMongolian-Regular.ttf(glyph count: 503) → 158 characters
+Regular → NotoSansMyanmar-Regular.ttf(glyph count: 239) → 213 characters
+Regular → NotoSansNandinagari-Regular.ttf(glyph count: 354) → 1 characters
+Regular → NotoSansNewTaiLue-Regular.ttf(glyph count: 436) → 83 characters
+Regular → NotoSansNKo-Regular.ttf(glyph count: 408) → 62 characters
+Regular → NotoSansOgham-Regular.ttf(glyph count: 364) → 29 characters
+Regular → NotoSansOlChiki-Regular.ttf(glyph count: 384) → 48 characters
+Regular → NotoSansOriya-Regular.ttf(glyph count: 423) → 91 characters
+Regular → NotoSansRejang-Regular.ttf(glyph count: 374) → 37 characters
+Regular → NotoSansRunic-Regular.ttf(glyph count: 426) → 89 characters
+Regular → NotoSansSamaritan-Regular.ttf(glyph count: 397) → 61 characters
+Regular → NotoSansSaurashtra-Regular.ttf(glyph count: 419) → 82 characters
+Regular → NotoSansSinhala-Regular.ttf(glyph count: 433) → 91 characters
+Regular → NotoSansSundanese-Regular.ttf(glyph count: 408) → 72 characters
+Regular → NotoSansSylotiNagri-Regular.ttf(glyph count: 397) → 45 characters
+Regular → NotoSansSymbols-Regular.ttf(glyph count: 828) → 180 characters
+Regular → NotoSansSymbols2-Regular.ttf(glyph count: 1347) → 790 characters
+Regular → NotoSansSyriac-Regular.ttf(glyph count: 456) → 77 characters
+Regular → NotoSansTagbanwa-Regular.ttf(glyph count: 359) → 18 characters
+Regular → NotoSansTaiLe-Regular.ttf(glyph count: 390) → 35 characters
+Regular → NotoSansTaiTham-Regular.ttf(glyph count: 466) → 127 characters
+Regular → NotoSansTaiViet-Regular.ttf(glyph count: 409) → 72 characters
+Regular → NotoSansTamil-Regular.ttf(glyph count: 424) → 57 characters
+Regular → NotoSansTelugu-Regular.ttf(glyph count: 444) → 100 characters
+Regular → NotoSansThaana-Regular.ttf(glyph count: 408) → 50 characters
+Regular → NotoSansThai-Regular.ttf(glyph count: 426) → 85 characters
+Regular → NotoSansTifinagh-Regular.ttf(glyph count: 399) → 59 characters
+Regular → NotoSansVai-Regular.ttf(glyph count: 635) → 300 characters
+Regular → NotoSansYi-Regular.ttf(glyph count: 1586) → 1220 characters
+Regular → NotoSerifBalinese-Regular.ttf(glyph count: 448) → 1 characters
+Regular → NotoTraditionalNushu-Regular.ttf(glyph count: 376) → 13 characters
+✅ Regular font successfully saved: NotoMultilanguageFonts\NotoSansMultilanguage-Regular.ttf
+Medium → NotoSansSC-Medium.ttf(glyph count: 30445) → 30445 characters
+Medium → NotoSansTC-Medium.ttf(glyph count: 18797) → 9 characters
+Medium → NotoSansHK-Medium.ttf(glyph count: 18807) → 4 characters
+Medium → NotoSansJP-Medium.ttf(glyph count: 16077) → 229 characters
+Medium → NotoSansKR-Medium.ttf(glyph count: 22862) → 11533 characters
+Medium → NotoKufiArabic-Medium.ttf(glyph count: 1555) → 1325 characters
+Medium → NotoMusic-Medium.ttf(glyph count: 341) → 2 characters
+Medium → NotoSans-Medium.ttf(glyph count: 3006) → 2362 characters
+Medium → NotoSansArmenian-Medium.ttf(glyph count: 430) → 96 characters
+Medium → NotoSansBalinese-Medium.ttf(glyph count: 460) → 122 characters
+Medium → NotoSansBamum-Medium.ttf(glyph count: 422) → 88 characters
+Medium → NotoSansBatak-Medium.ttf(glyph count: 391) → 56 characters
+Medium → NotoSansBengali-Medium.ttf(glyph count: 456) → 109 characters
+Medium → NotoSansBuginese-Medium.ttf(glyph count: 370) → 31 characters
+Medium → NotoSansBuhid-Medium.ttf(glyph count: 361) → 22 characters
+Medium → NotoSansCanadianAboriginal-Medium.ttf(glyph count: 1041) → 710 characters
+Medium → NotoSansChakma-Medium.ttf(glyph count: 358) → 10 characters
+Medium → NotoSansCham-Medium.ttf(glyph count: 408) → 83 characters
+Medium → NotoSansCherokee-Medium.ttf(glyph count: 511) → 172 characters
+Medium → NotoSansCoptic-Medium.ttf(glyph count: 490) → 137 characters
+Medium → NotoSansDevanagari-Medium.ttf(glyph count: 541) → 70 characters
+Medium → NotoSansDuployan-Medium.ttf(glyph count: 339) → 6 characters
+Medium → NotoSansEthiopic-Medium.ttf(glyph count: 832) → 496 characters
+Medium → NotoSansGeorgian-Medium.ttf(glyph count: 509) → 173 characters
+Medium → NotoSansGlagolitic-Medium.ttf(glyph count: 436) → 94 characters
+Medium → NotoSansGrantha-Medium.ttf(glyph count: 353) → 15 characters
+Medium → NotoSansGujarati-Medium.ttf(glyph count: 442) → 91 characters
+Medium → NotoSansGurmukhi-Medium.ttf(glyph count: 436) → 81 characters
+Medium → NotoSansHanunoo-Medium.ttf(glyph count: 360) → 21 characters
+Medium → NotoSansHebrew-Medium.ttf(glyph count: 464) → 134 characters
+Medium → NotoSansJavanese-Medium.ttf(glyph count: 428) → 90 characters
+Medium → NotoSansKannada-Medium.ttf(glyph count: 445) → 91 characters
+Medium → NotoSansKayahLi-Medium.ttf(glyph count: 387) → 47 characters
+Medium → NotoSansKhmer-Medium.ttf(glyph count: 483) → 146 characters
+Medium → NotoSansLao-Medium.ttf(glyph count: 421) → 83 characters
+Medium → NotoSansLaoLooped-Medium.ttf(glyph count: 429) → 3 characters
+Medium → NotoSansLepcha-Medium.ttf(glyph count: 411) → 74 characters
+Medium → NotoSansLimbu-Medium.ttf(glyph count: 396) → 68 characters
+Medium → NotoSansLisu-Medium.ttf(glyph count: 389) → 48 characters
+Medium → NotoSansMalayalam-Medium.ttf(glyph count: 467) → 118 characters
+Medium → NotoSansMandaic-Medium.ttf(glyph count: 355) → 29 characters
+Medium → NotoSansMath-Medium.ttf(glyph count: 1805) → 1156 characters
+Medium → NotoSansMeeteiMayek-Medium.ttf(glyph count: 419) → 79 characters
+Medium → NotoSansMongolian-Medium.ttf(glyph count: 503) → 158 characters
+Medium → NotoSansMyanmar-Medium.ttf(glyph count: 239) → 213 characters
+Medium → NotoSansNandinagari-Medium.ttf(glyph count: 354) → 1 characters
+Medium → NotoSansNewTaiLue-Medium.ttf(glyph count: 436) → 83 characters
+Medium → NotoSansNKo-Medium.ttf(glyph count: 408) → 62 characters
+Medium → NotoSansOgham-Medium.ttf(glyph count: 364) → 29 characters
+Medium → NotoSansOlChiki-Medium.ttf(glyph count: 384) → 48 characters
+Medium → NotoSansOriya-Medium.ttf(glyph count: 423) → 91 characters
+Medium → NotoSansRejang-Medium.ttf(glyph count: 374) → 37 characters
+Medium → NotoSansRunic-Medium.ttf(glyph count: 426) → 89 characters
+Medium → NotoSansSamaritan-Medium.ttf(glyph count: 397) → 61 characters
+Medium → NotoSansSaurashtra-Medium.ttf(glyph count: 419) → 82 characters
+Medium → NotoSansSinhala-Medium.ttf(glyph count: 433) → 91 characters
+Medium → NotoSansSundanese-Medium.ttf(glyph count: 408) → 72 characters
+Medium → NotoSansSylotiNagri-Medium.ttf(glyph count: 397) → 45 characters
+Medium → NotoSansSymbols-Medium.ttf(glyph count: 828) → 180 characters
+Medium → NotoSansSymbols2-Medium.ttf(glyph count: 1347) → 790 characters
+Medium → NotoSansSyriac-Medium.ttf(glyph count: 456) → 77 characters
+Medium → NotoSansTagbanwa-Medium.ttf(glyph count: 359) → 18 characters
+Medium → NotoSansTaiLe-Medium.ttf(glyph count: 390) → 35 characters
+Medium → NotoSansTaiTham-Medium.ttf(glyph count: 466) → 127 characters
+Medium → NotoSansTaiViet-Medium.ttf(glyph count: 409) → 72 characters
+Medium → NotoSansTamil-Medium.ttf(glyph count: 424) → 57 characters
+Medium → NotoSansTelugu-Medium.ttf(glyph count: 444) → 100 characters
+Medium → NotoSansThaana-Medium.ttf(glyph count: 408) → 50 characters
+Medium → NotoSansThai-Medium.ttf(glyph count: 426) → 85 characters
+Medium → NotoSansTifinagh-Medium.ttf(glyph count: 399) → 59 characters
+Medium → NotoSansVai-Medium.ttf(glyph count: 635) → 300 characters
+Medium → NotoSansYi-Medium.ttf(glyph count: 1586) → 1220 characters
+Medium → NotoSerifBalinese-Medium.ttf(glyph count: 448) → 1 characters
+Medium → NotoTraditionalNushu-Medium.ttf(glyph count: 376) → 13 characters
+✅ Medium font successfully saved: NotoMultilanguageFonts\NotoSansMultilanguage-Medium.ttf
+SemiBold → NotoSansSC-SemiBold.ttf(glyph count: 30445) → 30445 characters
+SemiBold → NotoSansTC-SemiBold.ttf(glyph count: 18797) → 9 characters
+SemiBold → NotoSansHK-SemiBold.ttf(glyph count: 18807) → 4 characters
+SemiBold → NotoSansJP-SemiBold.ttf(glyph count: 16077) → 229 characters
+SemiBold → NotoSansKR-SemiBold.ttf(glyph count: 22862) → 11533 characters
+SemiBold → NotoKufiArabic-SemiBold.ttf(glyph count: 1555) → 1325 characters
+SemiBold → NotoMusic-SemiBold.ttf(glyph count: 341) → 2 characters
+SemiBold → NotoSans-SemiBold.ttf(glyph count: 3006) → 2362 characters
+SemiBold → NotoSansArmenian-SemiBold.ttf(glyph count: 430) → 96 characters
+SemiBold → NotoSansBalinese-SemiBold.ttf(glyph count: 460) → 122 characters
+SemiBold → NotoSansBamum-SemiBold.ttf(glyph count: 422) → 88 characters
+SemiBold → NotoSansBatak-SemiBold.ttf(glyph count: 391) → 56 characters
+SemiBold → NotoSansBengali-SemiBold.ttf(glyph count: 456) → 109 characters
+SemiBold → NotoSansBuginese-SemiBold.ttf(glyph count: 370) → 31 characters
+SemiBold → NotoSansBuhid-SemiBold.ttf(glyph count: 361) → 22 characters
+SemiBold → NotoSansCanadianAboriginal-SemiBold.ttf(glyph count: 1041) → 710 characters
+SemiBold → NotoSansChakma-SemiBold.ttf(glyph count: 358) → 10 characters
+SemiBold → NotoSansCham-SemiBold.ttf(glyph count: 408) → 83 characters
+SemiBold → NotoSansCherokee-SemiBold.ttf(glyph count: 511) → 172 characters
+SemiBold → NotoSansCoptic-SemiBold.ttf(glyph count: 490) → 137 characters
+SemiBold → NotoSansDevanagari-SemiBold.ttf(glyph count: 541) → 70 characters
+SemiBold → NotoSansDuployan-SemiBold.ttf(glyph count: 339) → 6 characters
+SemiBold → NotoSansEthiopic-SemiBold.ttf(glyph count: 832) → 496 characters
+SemiBold → NotoSansGeorgian-SemiBold.ttf(glyph count: 509) → 173 characters
+SemiBold → NotoSansGlagolitic-SemiBold.ttf(glyph count: 436) → 94 characters
+SemiBold → NotoSansGrantha-SemiBold.ttf(glyph count: 353) → 15 characters
+SemiBold → NotoSansGujarati-SemiBold.ttf(glyph count: 442) → 91 characters
+SemiBold → NotoSansGurmukhi-SemiBold.ttf(glyph count: 436) → 81 characters
+SemiBold → NotoSansHanunoo-SemiBold.ttf(glyph count: 360) → 21 characters
+SemiBold → NotoSansHebrew-SemiBold.ttf(glyph count: 464) → 134 characters
+SemiBold → NotoSansJavanese-SemiBold.ttf(glyph count: 428) → 90 characters
+SemiBold → NotoSansKannada-SemiBold.ttf(glyph count: 445) → 91 characters
+SemiBold → NotoSansKayahLi-SemiBold.ttf(glyph count: 387) → 47 characters
+SemiBold → NotoSansKhmer-SemiBold.ttf(glyph count: 483) → 146 characters
+SemiBold → NotoSansLao-SemiBold.ttf(glyph count: 421) → 83 characters
+SemiBold → NotoSansLaoLooped-SemiBold.ttf(glyph count: 429) → 3 characters
+SemiBold → NotoSansLepcha-SemiBold.ttf(glyph count: 411) → 74 characters
+SemiBold → NotoSansLimbu-SemiBold.ttf(glyph count: 396) → 68 characters
+SemiBold → NotoSansLisu-SemiBold.ttf(glyph count: 389) → 48 characters
+SemiBold → NotoSansMalayalam-SemiBold.ttf(glyph count: 467) → 118 characters
+SemiBold → NotoSansMandaic-SemiBold.ttf(glyph count: 355) → 29 characters
+SemiBold → NotoSansMath-SemiBold.ttf(glyph count: 1805) → 1156 characters
+SemiBold → NotoSansMeeteiMayek-SemiBold.ttf(glyph count: 419) → 79 characters
+SemiBold → NotoSansMongolian-SemiBold.ttf(glyph count: 503) → 158 characters
+SemiBold → NotoSansMyanmar-SemiBold.ttf(glyph count: 239) → 213 characters
+SemiBold → NotoSansNandinagari-SemiBold.ttf(glyph count: 354) → 1 characters
+SemiBold → NotoSansNewTaiLue-SemiBold.ttf(glyph count: 436) → 83 characters
+SemiBold → NotoSansNKo-SemiBold.ttf(glyph count: 408) → 62 characters
+SemiBold → NotoSansOgham-SemiBold.ttf(glyph count: 364) → 29 characters
+SemiBold → NotoSansOlChiki-SemiBold.ttf(glyph count: 384) → 48 characters
+SemiBold → NotoSansOriya-SemiBold.ttf(glyph count: 423) → 91 characters
+SemiBold → NotoSansRejang-SemiBold.ttf(glyph count: 374) → 37 characters
+SemiBold → NotoSansRunic-SemiBold.ttf(glyph count: 426) → 89 characters
+SemiBold → NotoSansSamaritan-SemiBold.ttf(glyph count: 397) → 61 characters
+SemiBold → NotoSansSaurashtra-SemiBold.ttf(glyph count: 419) → 82 characters
+SemiBold → NotoSansSinhala-SemiBold.ttf(glyph count: 433) → 91 characters
+SemiBold → NotoSansSundanese-SemiBold.ttf(glyph count: 408) → 72 characters
+SemiBold → NotoSansSylotiNagri-SemiBold.ttf(glyph count: 397) → 45 characters
+SemiBold → NotoSansSymbols-SemiBold.ttf(glyph count: 828) → 180 characters
+SemiBold → NotoSansSymbols2-SemiBold.ttf(glyph count: 1347) → 790 characters
+SemiBold → NotoSansSyriac-SemiBold.ttf(glyph count: 456) → 77 characters
+SemiBold → NotoSansTagbanwa-SemiBold.ttf(glyph count: 359) → 18 characters
+SemiBold → NotoSansTaiLe-SemiBold.ttf(glyph count: 390) → 35 characters
+SemiBold → NotoSansTaiTham-SemiBold.ttf(glyph count: 466) → 127 characters
+SemiBold → NotoSansTaiViet-SemiBold.ttf(glyph count: 409) → 72 characters
+SemiBold → NotoSansTamil-SemiBold.ttf(glyph count: 424) → 57 characters
+SemiBold → NotoSansTelugu-SemiBold.ttf(glyph count: 444) → 100 characters
+SemiBold → NotoSansThaana-SemiBold.ttf(glyph count: 408) → 50 characters
+SemiBold → NotoSansThai-SemiBold.ttf(glyph count: 426) → 85 characters
+SemiBold → NotoSansTifinagh-SemiBold.ttf(glyph count: 399) → 59 characters
+SemiBold → NotoSansVai-SemiBold.ttf(glyph count: 635) → 300 characters
+SemiBold → NotoSansYi-SemiBold.ttf(glyph count: 1586) → 1220 characters
+SemiBold → NotoSerifBalinese-SemiBold.ttf(glyph count: 448) → 1 characters
+SemiBold → NotoTraditionalNushu-SemiBold.ttf(glyph count: 376) → 13 characters
+✅ SemiBold font successfully saved: NotoMultilanguageFonts\NotoSansMultilanguage-SemiBold.ttf
+Bold → NotoSansSC-Bold.ttf(glyph count: 30445) → 30445 characters
+Bold → NotoSansTC-Bold.ttf(glyph count: 18797) → 9 characters
+Bold → NotoSansHK-Bold.ttf(glyph count: 18807) → 4 characters
+Bold → NotoSansJP-Bold.ttf(glyph count: 16077) → 229 characters
+Bold → NotoSansKR-Bold.ttf(glyph count: 22862) → 11533 characters
+Bold → NotoKufiArabic-Bold.ttf(glyph count: 1555) → 1325 characters
+Bold → NotoMusic-Bold.ttf(glyph count: 341) → 2 characters
+Bold → NotoSans-Bold.ttf(glyph count: 3006) → 2362 characters
+Bold → NotoSansArmenian-Bold.ttf(glyph count: 430) → 96 characters
+Bold → NotoSansBalinese-Bold.ttf(glyph count: 460) → 122 characters
+Bold → NotoSansBamum-Bold.ttf(glyph count: 422) → 88 characters
+Bold → NotoSansBatak-Bold.ttf(glyph count: 391) → 56 characters
+Bold → NotoSansBengali-Bold.ttf(glyph count: 456) → 109 characters
+Bold → NotoSansBuginese-Bold.ttf(glyph count: 370) → 31 characters
+Bold → NotoSansBuhid-Bold.ttf(glyph count: 361) → 22 characters
+Bold → NotoSansCanadianAboriginal-Bold.ttf(glyph count: 1041) → 710 characters
+Bold → NotoSansChakma-Bold.ttf(glyph count: 358) → 10 characters
+Bold → NotoSansCham-Bold.ttf(glyph count: 408) → 83 characters
+Bold → NotoSansCherokee-Bold.ttf(glyph count: 511) → 172 characters
+Bold → NotoSansCoptic-Bold.ttf(glyph count: 490) → 137 characters
+Bold → NotoSansDevanagari-Bold.ttf(glyph count: 541) → 70 characters
+Bold → NotoSansDuployan-Bold.ttf(glyph count: 339) → 6 characters
+Bold → NotoSansEthiopic-Bold.ttf(glyph count: 832) → 496 characters
+Bold → NotoSansGeorgian-Bold.ttf(glyph count: 509) → 173 characters
+Bold → NotoSansGlagolitic-Bold.ttf(glyph count: 436) → 94 characters
+Bold → NotoSansGrantha-Bold.ttf(glyph count: 353) → 15 characters
+Bold → NotoSansGujarati-Bold.ttf(glyph count: 442) → 91 characters
+Bold → NotoSansGurmukhi-Bold.ttf(glyph count: 436) → 81 characters
+Bold → NotoSansHanunoo-Bold.ttf(glyph count: 360) → 21 characters
+Bold → NotoSansHebrew-Bold.ttf(glyph count: 464) → 134 characters
+Bold → NotoSansJavanese-Bold.ttf(glyph count: 428) → 90 characters
+Bold → NotoSansKannada-Bold.ttf(glyph count: 445) → 91 characters
+Bold → NotoSansKayahLi-Bold.ttf(glyph count: 387) → 47 characters
+Bold → NotoSansKhmer-Bold.ttf(glyph count: 483) → 146 characters
+Bold → NotoSansLao-Bold.ttf(glyph count: 421) → 83 characters
+Bold → NotoSansLaoLooped-Bold.ttf(glyph count: 429) → 3 characters
+Bold → NotoSansLepcha-Bold.ttf(glyph count: 411) → 74 characters
+Bold → NotoSansLimbu-Bold.ttf(glyph count: 396) → 68 characters
+Bold → NotoSansLisu-Bold.ttf(glyph count: 389) → 48 characters
+Bold → NotoSansMalayalam-Bold.ttf(glyph count: 467) → 118 characters
+Bold → NotoSansMandaic-Bold.ttf(glyph count: 355) → 29 characters
+Bold → NotoSansMath-Bold.ttf(glyph count: 1805) → 1156 characters
+Bold → NotoSansMeeteiMayek-Bold.ttf(glyph count: 419) → 79 characters
+Bold → NotoSansMongolian-Bold.ttf(glyph count: 503) → 158 characters
+Bold → NotoSansMyanmar-Bold.ttf(glyph count: 239) → 213 characters
+Bold → NotoSansNandinagari-Bold.ttf(glyph count: 354) → 1 characters
+Bold → NotoSansNewTaiLue-Bold.ttf(glyph count: 436) → 83 characters
+Bold → NotoSansNKo-Bold.ttf(glyph count: 408) → 62 characters
+Bold → NotoSansOgham-Bold.ttf(glyph count: 364) → 29 characters
+Bold → NotoSansOlChiki-Bold.ttf(glyph count: 384) → 48 characters
+Bold → NotoSansOriya-Bold.ttf(glyph count: 423) → 91 characters
+Bold → NotoSansRejang-Bold.ttf(glyph count: 374) → 37 characters
+Bold → NotoSansRunic-Bold.ttf(glyph count: 426) → 89 characters
+Bold → NotoSansSamaritan-Bold.ttf(glyph count: 397) → 61 characters
+Bold → NotoSansSaurashtra-Bold.ttf(glyph count: 419) → 82 characters
+Bold → NotoSansSinhala-Bold.ttf(glyph count: 433) → 91 characters
+Bold → NotoSansSundanese-Bold.ttf(glyph count: 408) → 72 characters
+Bold → NotoSansSylotiNagri-Bold.ttf(glyph count: 397) → 45 characters
+Bold → NotoSansSymbols-Bold.ttf(glyph count: 828) → 180 characters
+Bold → NotoSansSymbols2-Bold.ttf(glyph count: 1347) → 790 characters
+Bold → NotoSansSyriac-Bold.ttf(glyph count: 456) → 77 characters
+Bold → NotoSansTagbanwa-Bold.ttf(glyph count: 359) → 18 characters
+Bold → NotoSansTaiLe-Bold.ttf(glyph count: 390) → 35 characters
+Bold → NotoSansTaiTham-Bold.ttf(glyph count: 466) → 127 characters
+Bold → NotoSansTaiViet-Bold.ttf(glyph count: 409) → 72 characters
+Bold → NotoSansTamil-Bold.ttf(glyph count: 424) → 57 characters
+Bold → NotoSansTelugu-Bold.ttf(glyph count: 444) → 100 characters
+Bold → NotoSansThaana-Bold.ttf(glyph count: 408) → 50 characters
+Bold → NotoSansThai-Bold.ttf(glyph count: 426) → 85 characters
+Bold → NotoSansTifinagh-Bold.ttf(glyph count: 399) → 59 characters
+Bold → NotoSansVai-Bold.ttf(glyph count: 635) → 300 characters
+Bold → NotoSansYi-Bold.ttf(glyph count: 1586) → 1220 characters
+Bold → NotoSerifBalinese-Bold.ttf(glyph count: 448) → 1 characters
+Bold → NotoTraditionalNushu-Bold.ttf(glyph count: 376) → 13 characters
+✅ Bold font successfully saved: NotoMultilanguageFonts\NotoSansMultilanguage-Bold.ttf
+ExtraBold → NotoSansSC-ExtraBold.ttf(glyph count: 30445) → 30445 characters
+ExtraBold → NotoSansTC-ExtraBold.ttf(glyph count: 18797) → 9 characters
+ExtraBold → NotoSansHK-ExtraBold.ttf(glyph count: 18807) → 4 characters
+ExtraBold → NotoSansJP-ExtraBold.ttf(glyph count: 16077) → 229 characters
+ExtraBold → NotoSansKR-ExtraBold.ttf(glyph count: 22862) → 11533 characters
+ExtraBold → NotoKufiArabic-ExtraBold.ttf(glyph count: 1555) → 1325 characters
+ExtraBold → NotoMusic-ExtraBold.ttf(glyph count: 341) → 2 characters
+ExtraBold → NotoSans-ExtraBold.ttf(glyph count: 3006) → 2362 characters
+ExtraBold → NotoSansArmenian-ExtraBold.ttf(glyph count: 430) → 96 characters
+ExtraBold → NotoSansBalinese-ExtraBold.ttf(glyph count: 460) → 122 characters
+ExtraBold → NotoSansBamum-ExtraBold.ttf(glyph count: 422) → 88 characters
+ExtraBold → NotoSansBatak-ExtraBold.ttf(glyph count: 391) → 56 characters
+ExtraBold → NotoSansBengali-ExtraBold.ttf(glyph count: 456) → 109 characters
+ExtraBold → NotoSansBuginese-ExtraBold.ttf(glyph count: 370) → 31 characters
+ExtraBold → NotoSansBuhid-ExtraBold.ttf(glyph count: 361) → 22 characters
+ExtraBold → NotoSansCanadianAboriginal-ExtraBold.ttf(glyph count: 1041) → 710 characters
+ExtraBold → NotoSansChakma-ExtraBold.ttf(glyph count: 358) → 10 characters
+ExtraBold → NotoSansCham-ExtraBold.ttf(glyph count: 408) → 83 characters
+ExtraBold → NotoSansCherokee-ExtraBold.ttf(glyph count: 511) → 172 characters
+ExtraBold → NotoSansCoptic-ExtraBold.ttf(glyph count: 490) → 137 characters
+ExtraBold → NotoSansDevanagari-ExtraBold.ttf(glyph count: 541) → 70 characters
+ExtraBold → NotoSansDuployan-ExtraBold.ttf(glyph count: 339) → 6 characters
+ExtraBold → NotoSansEthiopic-ExtraBold.ttf(glyph count: 832) → 496 characters
+ExtraBold → NotoSansGeorgian-ExtraBold.ttf(glyph count: 509) → 173 characters
+ExtraBold → NotoSansGlagolitic-ExtraBold.ttf(glyph count: 436) → 94 characters
+ExtraBold → NotoSansGrantha-ExtraBold.ttf(glyph count: 353) → 15 characters
+ExtraBold → NotoSansGujarati-ExtraBold.ttf(glyph count: 442) → 91 characters
+ExtraBold → NotoSansGurmukhi-ExtraBold.ttf(glyph count: 436) → 81 characters
+ExtraBold → NotoSansHanunoo-ExtraBold.ttf(glyph count: 360) → 21 characters
+ExtraBold → NotoSansHebrew-ExtraBold.ttf(glyph count: 464) → 134 characters
+ExtraBold → NotoSansJavanese-ExtraBold.ttf(glyph count: 428) → 90 characters
+ExtraBold → NotoSansKannada-ExtraBold.ttf(glyph count: 445) → 91 characters
+ExtraBold → NotoSansKayahLi-ExtraBold.ttf(glyph count: 387) → 47 characters
+ExtraBold → NotoSansKhmer-ExtraBold.ttf(glyph count: 483) → 146 characters
+ExtraBold → NotoSansLao-ExtraBold.ttf(glyph count: 421) → 83 characters
+ExtraBold → NotoSansLaoLooped-ExtraBold.ttf(glyph count: 429) → 3 characters
+ExtraBold → NotoSansLepcha-ExtraBold.ttf(glyph count: 411) → 74 characters
+ExtraBold → NotoSansLimbu-ExtraBold.ttf(glyph count: 396) → 68 characters
+ExtraBold → NotoSansLisu-ExtraBold.ttf(glyph count: 389) → 48 characters
+ExtraBold → NotoSansMalayalam-ExtraBold.ttf(glyph count: 467) → 118 characters
+ExtraBold → NotoSansMandaic-ExtraBold.ttf(glyph count: 355) → 29 characters
+ExtraBold → NotoSansMath-ExtraBold.ttf(glyph count: 1805) → 1156 characters
+ExtraBold → NotoSansMeeteiMayek-ExtraBold.ttf(glyph count: 419) → 79 characters
+ExtraBold → NotoSansMongolian-ExtraBold.ttf(glyph count: 503) → 158 characters
+ExtraBold → NotoSansMyanmar-ExtraBold.ttf(glyph count: 239) → 213 characters
+ExtraBold → NotoSansNandinagari-ExtraBold.ttf(glyph count: 354) → 1 characters
+ExtraBold → NotoSansNewTaiLue-ExtraBold.ttf(glyph count: 436) → 83 characters
+ExtraBold → NotoSansNKo-ExtraBold.ttf(glyph count: 408) → 62 characters
+ExtraBold → NotoSansOgham-ExtraBold.ttf(glyph count: 364) → 29 characters
+ExtraBold → NotoSansOlChiki-ExtraBold.ttf(glyph count: 384) → 48 characters
+ExtraBold → NotoSansOriya-ExtraBold.ttf(glyph count: 423) → 91 characters
+ExtraBold → NotoSansRejang-ExtraBold.ttf(glyph count: 374) → 37 characters
+ExtraBold → NotoSansRunic-ExtraBold.ttf(glyph count: 426) → 89 characters
+ExtraBold → NotoSansSamaritan-ExtraBold.ttf(glyph count: 397) → 61 characters
+ExtraBold → NotoSansSaurashtra-ExtraBold.ttf(glyph count: 419) → 82 characters
+ExtraBold → NotoSansSinhala-ExtraBold.ttf(glyph count: 433) → 91 characters
+ExtraBold → NotoSansSundanese-ExtraBold.ttf(glyph count: 408) → 72 characters
+ExtraBold → NotoSansSylotiNagri-ExtraBold.ttf(glyph count: 397) → 45 characters
+ExtraBold → NotoSansSymbols-ExtraBold.ttf(glyph count: 828) → 180 characters
+ExtraBold → NotoSansSymbols2-ExtraBold.ttf(glyph count: 1347) → 790 characters
+ExtraBold → NotoSansSyriac-ExtraBold.ttf(glyph count: 456) → 77 characters
+ExtraBold → NotoSansTagbanwa-ExtraBold.ttf(glyph count: 359) → 18 characters
+ExtraBold → NotoSansTaiLe-ExtraBold.ttf(glyph count: 390) → 35 characters
+ExtraBold → NotoSansTaiTham-ExtraBold.ttf(glyph count: 466) → 127 characters
+ExtraBold → NotoSansTaiViet-ExtraBold.ttf(glyph count: 409) → 72 characters
+ExtraBold → NotoSansTamil-ExtraBold.ttf(glyph count: 424) → 57 characters
+ExtraBold → NotoSansTelugu-ExtraBold.ttf(glyph count: 444) → 100 characters
+ExtraBold → NotoSansThaana-ExtraBold.ttf(glyph count: 408) → 50 characters
+ExtraBold → NotoSansThai-ExtraBold.ttf(glyph count: 426) → 85 characters
+ExtraBold → NotoSansTifinagh-ExtraBold.ttf(glyph count: 399) → 59 characters
+ExtraBold → NotoSansVai-ExtraBold.ttf(glyph count: 635) → 300 characters
+ExtraBold → NotoSansYi-ExtraBold.ttf(glyph count: 1586) → 1220 characters
+ExtraBold → NotoSerifBalinese-ExtraBold.ttf(glyph count: 448) → 1 characters
+ExtraBold → NotoTraditionalNushu-ExtraBold.ttf(glyph count: 376) → 13 characters
+✅ ExtraBold font successfully saved: NotoMultilanguageFonts\NotoSansMultilanguage-ExtraBold.ttf
+Black → NotoSansSC-Black.ttf(glyph count: 30445) → 30445 characters
+Black → NotoSansTC-Black.ttf(glyph count: 18797) → 9 characters
+Black → NotoSansHK-Black.ttf(glyph count: 18807) → 4 characters
+Black → NotoSansJP-Black.ttf(glyph count: 16077) → 229 characters
+Black → NotoSansKR-Black.ttf(glyph count: 22862) → 11533 characters
+Black → NotoKufiArabic-Black.ttf(glyph count: 1555) → 1325 characters
+Black → NotoMusic-Black.ttf(glyph count: 341) → 2 characters
+Black → NotoSans-Black.ttf(glyph count: 3006) → 2362 characters
+Black → NotoSansArmenian-Black.ttf(glyph count: 430) → 96 characters
+Black → NotoSansBalinese-Black.ttf(glyph count: 460) → 122 characters
+Black → NotoSansBamum-Black.ttf(glyph count: 422) → 88 characters
+Black → NotoSansBatak-Black.ttf(glyph count: 391) → 56 characters
+Black → NotoSansBengali-Black.ttf(glyph count: 456) → 109 characters
+Black → NotoSansBuginese-Black.ttf(glyph count: 370) → 31 characters
+Black → NotoSansBuhid-Black.ttf(glyph count: 361) → 22 characters
+Black → NotoSansCanadianAboriginal-Black.ttf(glyph count: 1041) → 710 characters
+Black → NotoSansChakma-Black.ttf(glyph count: 358) → 10 characters
+Black → NotoSansCham-Black.ttf(glyph count: 408) → 83 characters
+Black → NotoSansCherokee-Black.ttf(glyph count: 511) → 172 characters
+Black → NotoSansCoptic-Black.ttf(glyph count: 490) → 137 characters
+Black → NotoSansDevanagari-Black.ttf(glyph count: 541) → 70 characters
+Black → NotoSansDuployan-Black.ttf(glyph count: 339) → 6 characters
+Black → NotoSansEthiopic-Black.ttf(glyph count: 832) → 496 characters
+Black → NotoSansGeorgian-Black.ttf(glyph count: 509) → 173 characters
+Black → NotoSansGlagolitic-Black.ttf(glyph count: 436) → 94 characters
+Black → NotoSansGrantha-Black.ttf(glyph count: 353) → 15 characters
+Black → NotoSansGujarati-Black.ttf(glyph count: 442) → 91 characters
+Black → NotoSansGurmukhi-Black.ttf(glyph count: 436) → 81 characters
+Black → NotoSansHanunoo-Black.ttf(glyph count: 360) → 21 characters
+Black → NotoSansHebrew-Black.ttf(glyph count: 464) → 134 characters
+Black → NotoSansJavanese-Black.ttf(glyph count: 428) → 90 characters
+Black → NotoSansKannada-Black.ttf(glyph count: 445) → 91 characters
+Black → NotoSansKayahLi-Black.ttf(glyph count: 387) → 47 characters
+Black → NotoSansKhmer-Black.ttf(glyph count: 483) → 146 characters
+Black → NotoSansLao-Black.ttf(glyph count: 421) → 83 characters
+Black → NotoSansLaoLooped-Black.ttf(glyph count: 429) → 3 characters
+Black → NotoSansLepcha-Black.ttf(glyph count: 411) → 74 characters
+Black → NotoSansLimbu-Black.ttf(glyph count: 396) → 68 characters
+Black → NotoSansLisu-Black.ttf(glyph count: 389) → 48 characters
+Black → NotoSansMalayalam-Black.ttf(glyph count: 467) → 118 characters
+Black → NotoSansMandaic-Black.ttf(glyph count: 355) → 29 characters
+Black → NotoSansMath-Black.ttf(glyph count: 1805) → 1156 characters
+Black → NotoSansMeeteiMayek-Black.ttf(glyph count: 419) → 79 characters
+Black → NotoSansMongolian-Black.ttf(glyph count: 503) → 158 characters
+Black → NotoSansMyanmar-Black.ttf(glyph count: 239) → 213 characters
+Black → NotoSansNandinagari-Black.ttf(glyph count: 354) → 1 characters
+Black → NotoSansNewTaiLue-Black.ttf(glyph count: 436) → 83 characters
+Black → NotoSansNKo-Black.ttf(glyph count: 408) → 62 characters
+Black → NotoSansOgham-Black.ttf(glyph count: 364) → 29 characters
+Black → NotoSansOlChiki-Black.ttf(glyph count: 384) → 48 characters
+Black → NotoSansOriya-Black.ttf(glyph count: 423) → 91 characters
+Black → NotoSansRejang-Black.ttf(glyph count: 374) → 37 characters
+Black → NotoSansRunic-Black.ttf(glyph count: 426) → 89 characters
+Black → NotoSansSamaritan-Black.ttf(glyph count: 397) → 61 characters
+Black → NotoSansSaurashtra-Black.ttf(glyph count: 419) → 82 characters
+Black → NotoSansSinhala-Black.ttf(glyph count: 433) → 91 characters
+Black → NotoSansSundanese-Black.ttf(glyph count: 408) → 72 characters
+Black → NotoSansSylotiNagri-Black.ttf(glyph count: 397) → 45 characters
+Black → NotoSansSymbols-Black.ttf(glyph count: 828) → 180 characters
+Black → NotoSansSymbols2-Black.ttf(glyph count: 1347) → 790 characters
+Black → NotoSansSyriac-Black.ttf(glyph count: 456) → 77 characters
+Black → NotoSansTagbanwa-Black.ttf(glyph count: 359) → 18 characters
+Black → NotoSansTaiLe-Black.ttf(glyph count: 390) → 35 characters
+Black → NotoSansTaiTham-Black.ttf(glyph count: 466) → 127 characters
+Black → NotoSansTaiViet-Black.ttf(glyph count: 409) → 72 characters
+Black → NotoSansTamil-Black.ttf(glyph count: 424) → 57 characters
+Black → NotoSansTelugu-Black.ttf(glyph count: 444) → 100 characters
+Black → NotoSansThaana-Black.ttf(glyph count: 408) → 50 characters
+Black → NotoSansThai-Black.ttf(glyph count: 426) → 85 characters
+Black → NotoSansTifinagh-Black.ttf(glyph count: 399) → 59 characters
+Black → NotoSansVai-Black.ttf(glyph count: 635) → 300 characters
+Black → NotoSansYi-Black.ttf(glyph count: 1586) → 1220 characters
+Black → NotoSerifBalinese-Black.ttf(glyph count: 448) → 1 characters
+Black → NotoTraditionalNushu-Black.ttf(glyph count: 376) → 13 characters
+✅ Black font successfully saved: NotoMultilanguageFonts\NotoSansMultilanguage-Black.ttf

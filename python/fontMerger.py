@@ -5,8 +5,8 @@ from fontTools.merge import Merger, Options
 from gftools.fix import rename_font
 from fontTools.subset import Subsetter, Options as SubsetOptions
 
-base_input_dir = "fonts"
-output_dir = "NotoUniversalOutput"
+base_input_dir = "used-fonts"
+output_dir = "NotoMultilanguageFonts"
 temp_subset_dir = "TempSubsetFonts"
 os.makedirs(output_dir, exist_ok=True)
 os.makedirs(temp_subset_dir, exist_ok=True)
@@ -17,19 +17,29 @@ def is_valid_font(path):
     name = os.path.basename(path).lower()
     return "condensed" not in name and name.endswith(".ttf")
 
-# Log dosyası başlat
+# Initialize log content
 log_lines = []
 
 for weight in weights:
     weight_dir = os.path.join(base_input_dir, weight)
     if not os.path.exists(weight_dir):
-        print(f"⚠️  {weight} klasörü yok, atlanıyor.")
+        print(f"⚠️  Folder {weight} does not exist. Skipping.")
         continue
 
     font_paths_all = [os.path.join(weight_dir, f) for f in os.listdir(weight_dir) if is_valid_font(f)]
     if len(font_paths_all) < 2:
-        print(f"❌ Yeterli font yok, {weight} için atlanıyor.")
+        print(f"❌ Insufficient fonts. Skipping {weight}.")
         continue
+
+    # Priority order: NotoSansSC > NotoSansTC > NotoSansHK > NotoSansJP > NotoSansKR
+    priority = {"notosanssc": 0, "notosanstc": 1, "notosanshk": 2, "notosansjp": 3, "notosanskr": 4}
+    def sort_key(path):
+        name = os.path.basename(path).lower()
+        for key, value in priority.items():
+            if key in name:
+                return value
+        return 99
+    font_paths_all.sort(key=sort_key)
 
     valid_fonts = []
     rejected_fonts = []
@@ -42,14 +52,14 @@ for weight in weights:
             else:
                 rejected_fonts.append((os.path.basename(path), upem))
         except Exception as e:
-            print(f"⚠️  {os.path.basename(path)} okunamadı: {e}")
+            print(f"⚠️  Failed to read font file {os.path.basename(path)}: {e}")
 
     if rejected_fonts:
-        print(f"⚠️  {weight} için unitsPerEm uyumsuz fontlar atlandı:")
+        print(f"⚠️  The following fonts in {weight} were skipped due to incompatible unitsPerEm:")
         for name, upem in rejected_fonts:
             print(f"   - {name} → unitsPerEm = {upem}")
 
-    print(f"\n🔢 {weight} için fontların glif sayıları ve karakter kümeleri:")
+    print(f"\n🔢 Glyph counts and character sets for fonts in {weight}:")
 
     cumulative_codepoints = set()
     subset_fonts = []
@@ -58,18 +68,18 @@ for weight in weights:
         font = TTFont(path)
         cmap_table = next((t for t in font["cmap"].tables if t.isUnicode()), None)
         if not cmap_table:
-            print(f"⚠️  {os.path.basename(path)} için Unicode cmap bulunamadı, atlanıyor.")
+            print(f"⚠️  Unicode cmap table not found in {os.path.basename(path)}. Skipping.")
             continue
 
         cps = set(cmap_table.cmap.keys())
         unique_cps = cps - cumulative_codepoints
         if not unique_cps:
-            print(f"   - {os.path.basename(path)} tamamen tekrar, atlanıyor.")
+            print(f"   - {os.path.basename(path)} (glyph count: {len(cps)}) is fully redundant. Skipping.")
             continue
 
         cumulative_codepoints.update(unique_cps)
 
-        # Subset işlemi
+        # Perform subsetting
         subset_font = TTFont(path)
         options = SubsetOptions()
         options.drop_tables += ['GSUB', 'GPOS', 'GDEF']
@@ -81,14 +91,14 @@ for weight in weights:
         subset_font.save(subset_path)
         subset_fonts.append(subset_path)
 
-        print(f"   - {os.path.basename(path)}: {len(unique_cps)} unique karakter alındı")
-        log_lines.append(f"{weight} → {os.path.basename(path)} → {len(unique_cps)} karakter")
+        print(f"   - {os.path.basename(path)} (glyph count: {len(cps)}): extracted {len(unique_cps)} unique characters")
+        log_lines.append(f"{weight} → {os.path.basename(path)}(glyph count: {len(cps)}) → {len(unique_cps)} characters")
 
-    print(f"🔢 {weight} için toplam unique karakter sayısı: {len(cumulative_codepoints)}")
-    print(f"🔁 Birleştiriliyor: {weight} ({len(subset_fonts)} alt küme font)...")
+    print(f"🔢 Total unique characters extracted for {weight}: {len(cumulative_codepoints)}")
+    print(f"🔁 Merging fonts for {weight} ({len(subset_fonts)} subset fonts)...")
 
     if not subset_fonts:
-        print(f"❌ Hiçbir yeni karakter kalmadı, {weight} için atlandı.")
+        print(f"❌ No new characters to add. Skipping {weight}.")
         continue
 
     try:
@@ -100,21 +110,21 @@ for weight in weights:
 
         output_path = os.path.join(output_dir, f"NotoSansMultilanguage-{weight}.ttf")
         merged_font.save(output_path)
-        print(f"✅ Kaydedildi: {output_path}")
-        log_lines.append(f"✅ {weight} font başarıyla kaydedildi: {output_path}")
+        print(f"✅ Saved: {output_path}")
+        log_lines.append(f"✅ {weight} font successfully saved: {output_path}")
     except Exception as e:
-        print(f"❌ Hata: {weight} için birleştirme başarısız oldu. Sebep: {e}")
-        log_lines.append(f"❌ {weight} için hata: {e}")
+        print(f"❌ Error: Failed to merge {weight}. Reason: {e}")
+        log_lines.append(f"❌ Merge failed for {weight}: {e}")
 
-# 📄 Log dosyasını yaz
+# 📄 Write log file
 log_path = os.path.join(output_dir, "merge_log.txt")
 with open(log_path, "w", encoding="utf-8") as log_file:
     log_file.write("\n".join(log_lines))
-print(f"\n📄 Log dosyası yazıldı: {log_path}")
+print(f"\n📄 Log file generated: {log_path}")
 
-# 🧹 Temp klasörünü sil
+# 🧹 Clean up temporary subset directory
 try:
     shutil.rmtree(temp_subset_dir)
-    print(f"🧹 TempSubsetFonts klasörü silindi: {temp_subset_dir}")
+    print(f"🧹 Temporary folder deleted: {temp_subset_dir}")
 except Exception as e:
-    print(f"⚠️ TempSubsetFonts silinemedi: {e}")
+    print(f"⚠️  Failed to delete temporary folder {temp_subset_dir}: {e}")
