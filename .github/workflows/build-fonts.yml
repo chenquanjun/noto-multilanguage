@@ -8,6 +8,7 @@ on:
     paths:
       - 'used-fonts/**'
       - 'python/fontMerger.py'
+      - 'requirements.txt'
 
 jobs:
   build:

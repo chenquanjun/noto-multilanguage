@@ -1,0 +1,2 @@
+fonttools>=4.60.0
+gftools>=0.9.95
