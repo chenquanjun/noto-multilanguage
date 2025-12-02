@@ -11,6 +11,9 @@ import logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(message)s")
 logger = logging.getLogger()
 
+logging.getLogger("fontTools.subset").setLevel(logging.WARNING)
+logging.getLogger("fontTools").setLevel(logging.WARNING)
+
 base_input_dir = "used-fonts"
 output_dir = "NotoMultilanguageFonts"
 temp_subset_dir = "TempSubsetFonts"
@@ -33,18 +36,18 @@ locale_priority = {
 
 def process_locale_weight(locale, weight):
     """Process a single (locale, weight) combination. Returns log lines."""
-    log_lines = []
+    tag = f"[{locale} - {weight}]"
     weight_dir = os.path.join(base_input_dir, weight)
     if not os.path.exists(weight_dir):
-        msg = f"⚠️  Folder {weight} does not exist. Skipping."
+        msg = f"{tag}⚠️  Folder {weight} does not exist. Skipping."
         logger.warning(msg)
-        return [msg]
+        return
 
     font_paths_all = [os.path.join(weight_dir, f) for f in os.listdir(weight_dir) if is_valid_font(f)]
     if len(font_paths_all) < 2:
-        msg = f"❌ Insufficient fonts. Skipping {weight} for locale {locale}."
+        msg = f"{tag}❌ Insufficient fonts. Skipping {weight} for locale {locale}."
         logger.error(msg)
-        return [msg]
+        return
 
     priority = locale_priority[locale]
     def sort_key(path):
@@ -66,16 +69,16 @@ def process_locale_weight(locale, weight):
             else:
                 rejected_fonts.append((os.path.basename(path), upem))
         except Exception as e:
-            msg = f"⚠️  Failed to read font file {os.path.basename(path)}: {e}"
+            msg = f"{tag}⚠️  Failed to read font file {os.path.basename(path)}: {e}"
             logger.warning(msg)
-            log_lines.append(msg)
+
 
     if rejected_fonts:
-        log_lines.append(f"⚠️  The following fonts in {weight} were skipped due to incompatible unitsPerEm:")
+        logger.info(f"{tag}⚠️  The following fonts in {weight} were skipped due to incompatible unitsPerEm:")
         for name, upem in rejected_fonts:
-            log_lines.append(f"   - {name} → unitsPerEm = {upem}")
+            logger.info(f"{tag}   - {name} → unitsPerEm = {upem}")
 
-    log_lines.append(f"\n🔢 Glyph counts and character sets for fonts in {weight} (locale: {locale}):")
+    logger.info(f"\n{tag}🔢 Glyph counts and character sets for fonts in {weight} (locale: {locale}):")
 
     cumulative_codepoints = set()
     subset_fonts = []
@@ -87,16 +90,15 @@ def process_locale_weight(locale, weight):
             font = TTFont(path)
             cmap_table = next((t for t in font["cmap"].tables if t.isUnicode()), None)
             if not cmap_table:
-                msg = f"⚠️  Unicode cmap table not found in {os.path.basename(path)}. Skipping."
+                msg = f"{tag}⚠️  Unicode cmap table not found in {os.path.basename(path)}. Skipping."
                 logger.warning(msg)
-                log_lines.append(msg)
                 continue
 
             cps = set(cmap_table.cmap.keys())
             unique_cps = cps - cumulative_codepoints
             if not unique_cps:
-                msg = f"   - {os.path.basename(path)} (glyph count: {len(cps)}) is fully redundant. Skipping."
-                log_lines.append(msg)
+                msg = f"{tag}   - {os.path.basename(path)} (glyph count: {len(cps)}) is fully redundant. Skipping."
+                logger.warning(msg)
                 continue
 
             cumulative_codepoints.update(unique_cps)
@@ -114,24 +116,23 @@ def process_locale_weight(locale, weight):
             subset_font.save(subset_path)
             subset_fonts.append(subset_path)
 
-            msg = f"   - {os.path.basename(path)} (glyph count: {len(cps)}): extracted {len(unique_cps)} unique characters"
-            log_lines.append(msg)
-            log_lines.append(f"{weight} → {os.path.basename(path)} (glyph count: {len(cps)}) → {len(unique_cps)} characters")
+            msg = f"{tag}   - {os.path.basename(path)} (glyph count: {len(cps)}): extracted {len(unique_cps)} unique characters"
+            logger.info(msg)
+            logger.info(f"{tag}{weight} → {os.path.basename(path)} (glyph count: {len(cps)}) → {len(unique_cps)} characters")
         except Exception as e:
             msg = f"❌ Error processing {path}: {e}"
             logger.error(msg)
-            log_lines.append(msg)
 
-    log_lines.append(f"🔢 Total unique characters extracted for {weight} (locale: {locale}): {len(cumulative_codepoints)}")
-    log_lines.append(f"🔁 Merging fonts for {weight} ({len(subset_fonts)} subset fonts)...")
+
+    logger.info(f"{tag}🔢 Total unique characters extracted for {weight} (locale: {locale}): {len(cumulative_codepoints)}")
+    logger.info(f"{tag}🔁 Merging fonts for {weight} ({len(subset_fonts)} subset fonts)...")
 
     if not subset_fonts:
-        msg = f"❌ No new characters to add. Skipping {weight} for locale {locale}."
+        msg = f"{tag}❌ No new characters to add. Skipping {weight} for locale {locale}."
         logger.error(msg)
-        log_lines.append(msg)
         # Clean up task temp dir
         shutil.rmtree(task_temp_dir, ignore_errors=True)
-        return log_lines
+        return
 
     try:
         merger = Merger(options=Options(drop_tables=["vmtx", "vhea", "MATH"]))
@@ -142,27 +143,22 @@ def process_locale_weight(locale, weight):
 
         output_path = os.path.join(output_dir, f"{locale}-NotoSansMultilanguage-{weight}.ttf")
         merged_font.save(output_path)
-        msg = f"✅ Saved: {output_path}"
-        logger.info(msg)
-        log_lines.append(msg)
-        log_lines.append(f"✅ {weight} font successfully saved: {output_path}")
+
+        logger.info(f"{tag}✅ {weight} font successfully saved: {output_path}")
     except Exception as e:
-        msg = f"❌ Error: Failed to merge {weight} for locale {locale}. Reason: {e}"
+        msg = f"{tag}❌ Error: Failed to merge {weight} for locale {locale}. Reason: {e}"
         logger.error(msg)
-        log_lines.append(msg)
     finally:
         # Clean up this task's temp dir
         shutil.rmtree(task_temp_dir, ignore_errors=True)
 
-    return log_lines
-
-
 def main():
     all_tasks = [(locale, weight) for locale in locale_priority for weight in weights]
 
-    all_log_lines = []
     # Adjust max_workers based on your CPU and I/O capacity (e.g., 4–8)
-    with ThreadPoolExecutor() as executor:
+    max_workers = os.cpu_count() or 4
+    logger.info(f"🚀 Starting font merging with {max_workers} parallel workers...")
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_task = {
             executor.submit(process_locale_weight, locale, weight): (locale, weight)
             for locale, weight in all_tasks
@@ -171,12 +167,10 @@ def main():
         for future in as_completed(future_to_task):
             locale, weight = future_to_task[future]
             try:
-                logs = future.result()
-                all_log_lines.extend(logs)
+                future.result()
             except Exception as e:
                 msg = f"❌ Unhandled exception in task ({locale}, {weight}): {e}"
                 logger.error(msg)
-                all_log_lines.append(msg)
 
     # Write final log
     # log_path = os.path.join(output_dir, "merge_log.txt")
